@@ -1,0 +1,43 @@
+{
+  "kind": "youtube#channelListResponse",
+  "etag": "cGt_z3RYmyMf2qICrFcubujs-tE",
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#channel",
+      "etag": "H1JrGo7_9ogKLMhgqxO0M4CiXTE",
+      "id": "UCgiO7Kxib0SZEG0DoeuBkdQ",
+      "snippet": {
+        "title": "the BOB studio | 더 밥 스튜디오",
+        "description": "#라면꼰대 #최자로드 #낮술의기하핰 \n\n\n",
+        "customUrl": "@thebobstudio",
+        "publishedAt": "2014-04-10T06:23:15Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/h2LcPbyx1Y8LowtWTKNKbc7a_4FV8i2baCP3YjCHp5S5UoBVF1wr4XX03DMn8EjfvtS5yUztuw=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/h2LcPbyx1Y8LowtWTKNKbc7a_4FV8i2baCP3YjCHp5S5UoBVF1wr4XX03DMn8EjfvtS5yUztuw=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/h2LcPbyx1Y8LowtWTKNKbc7a_4FV8i2baCP3YjCHp5S5UoBVF1wr4XX03DMn8EjfvtS5yUztuw=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "the BOB studio | 더 밥 스튜디오",
+          "description": "#라면꼰대 #최자로드 #낮술의기하핰 \n\n\n"
+        },
+        "country": "KR"
+      }
+    }
+  ]
+}
