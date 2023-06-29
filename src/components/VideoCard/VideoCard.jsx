@@ -1,14 +1,14 @@
 import React from "react";
 import relativeTimeFormat from "../../utility/relative_time_format";
 
-export default function VideoCard({ video, channel }) {
+export default function VideoCard({ video, videoId, channel }) {
   const {
     snippet: {
       title,
       channelTitle,
       publishedAt,
       thumbnails: {
-        standard: { url },
+        default: { url },
       },
     },
   } = video;
@@ -22,7 +22,7 @@ export default function VideoCard({ video, channel }) {
   } = channel;
 
   return (
-    <li>
+    <li id={videoId}>
       <img src={url} alt={title} />
       <h2>{title}</h2>
       <h4>{channelTitle}</h4>

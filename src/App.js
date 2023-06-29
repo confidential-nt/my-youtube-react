@@ -1,13 +1,13 @@
-import Header from "./components/Header/Header";
-import Videos from "./components/Videos/Videos";
+import Search from "./components/Search/Search";
 import "./App.css";
+import { Outlet } from "react-router-dom";
 
 function App() {
   return (
     <>
-      <Header />
+      <Search />
       <main>
-        <Videos />
+        <Outlet />
       </main>
     </>
   );
