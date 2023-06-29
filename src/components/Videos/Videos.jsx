@@ -5,7 +5,7 @@ import fetchData from "../../utility/fetch_data";
 
 export default function Videos() {
   const [videos, setVideos] = useState([]);
-  const [channel, setChannel] = useState({});
+
   const { keyword } = useParams();
 
   useEffect(() => {
@@ -14,14 +14,10 @@ export default function Videos() {
         keyword ? "/data/search_result.json" : "/data/most_popular_videos.json"
       }`
     ).then((json) => setVideos(json.items));
-    fetchData("/data/channel_info.json").then((json) =>
-      setChannel(json.items[0])
-    );
   }, [keyword]);
 
   return (
-    videos.length &&
-    channel.id && (
+    videos.length && (
       <ul>
         {videos
           .filter((video) => getVideoId(video))
@@ -31,7 +27,6 @@ export default function Videos() {
                 key={getVideoId(video)}
                 videoId={getVideoId(video)}
                 video={video}
-                channel={channel}
               />
             );
           })}
