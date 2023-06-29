@@ -10,14 +10,14 @@ export default function Search() {
     navigate(`/videos/${keyword}`);
   };
 
-  const handleChange = (e) => {
-    setKeyword(e.target.value);
-  };
-
   return (
     <header>
       <form onSubmit={handleSubmit}>
-        <input type="search" onChange={handleChange} value={keyword} />
+        <input
+          type="search"
+          onChange={(e) => setKeyword(e.target.value)}
+          value={keyword}
+        />
         <button type="submit">검색</button>
       </form>
     </header>
