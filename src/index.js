@@ -4,6 +4,7 @@ import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import "./index.css";
 import App from "./App";
 import Videos from "./components/Videos/Videos";
+import VideoDetail from "./components/VideoDetail/VideoDetail";
 
 const router = createBrowserRouter([
   {
@@ -14,6 +15,10 @@ const router = createBrowserRouter([
       {
         path: "videos/:keyword",
         element: <Videos />,
+      },
+      {
+        path: "videos/watch/:id",
+        element: <VideoDetail />,
       },
     ],
   },

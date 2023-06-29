@@ -25,7 +25,9 @@ export default function VideoCard({ video, videoId }) {
   return (
     channel.id && (
       <li id={videoId}>
-        <img src={url} alt={title} />
+        <a href={`/videos/watch/${videoId}`}>
+          <img src={url} alt={title} />
+        </a>
         <h2>{title}</h2>
         <h4>{channelTitle}</h4>
         <img src={channel.snippet.thumbnails.default.url} alt={channelTitle} />
