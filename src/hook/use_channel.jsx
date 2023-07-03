@@ -1,13 +1,15 @@
-import { useEffect, useState } from "react";
+import { useQuery } from "@tanstack/react-query";
 import fetchData from "../utility/fetch_data";
 
 export default function useChannel() {
-  const [channel, setChannel] = useState(undefined);
+  const { data: channel, isLoading } = useQuery({
+    queryKey: ["channel"],
+    queryFn: () => fetchData("/data/channel_info.json"),
+    staleTime: 1000 * 60 * 5,
+    refetchOnWindowFocus: false,
+  });
 
-  useEffect(() => {
-    fetchData("/data/channel_info.json").then((json) =>
-      setChannel(json.items[0])
-    );
-  }, []);
-  return [channel];
+  if (isLoading) return [];
+
+  return [channel.items[0]];
 }

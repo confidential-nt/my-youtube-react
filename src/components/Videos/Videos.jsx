@@ -18,7 +18,7 @@ export default function Videos() {
             : "/data/most_popular_videos.json"
         }`
       ),
-    staleTime: 1000 * 60 * 5,
+    staleTime: 1000 * 60,
     refetchOnWindowFocus: false,
   });
 
