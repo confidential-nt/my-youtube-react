@@ -2,6 +2,7 @@ import React, { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import VideoCard from "../VideoCard/VideoCard";
 import fetchData from "../../utility/fetch_data";
+import getVideoId from "../../utility/get_video_id";
 
 export default function Videos() {
   const [videos, setVideos] = useState([]);
@@ -31,8 +32,4 @@ export default function Videos() {
       </ul>
     )
   );
-}
-
-function getVideoId(video) {
-  return typeof video.id === "object" ? video.id.videoId : video.id;
 }

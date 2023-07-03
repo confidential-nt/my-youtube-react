@@ -1,0 +1,2206 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "T7OW1Vbc28hcrUzegUQDZP-SRKc",
+  "nextPageToken": "CDIQAA",
+  "pageInfo": {
+    "totalResults": 141,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bcrp51g2k4W4-O0jipNXSO6tzgY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "51Q5dFH5Ee0"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-09T08:18:20Z",
+        "channelId": "UC70u2e8gK14R7QfFs7ehNDw",
+        "title": "[C.C.] JUNHO has a soft spot for his nephew💖 #2PM #JUNHO",
+        "description": "#MBCWORLD #2PM #JUNHO #SINGLELIFE\n-\n각국어 번역 자막 제작: 컨텐츠 제작의 마무리는 컨텐츠플라이! 글로벌 진출을 위한 최고의 파트너, CONTENTSFLY에서 제작되었습니다\nhttps://www.contentsfly.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/51Q5dFH5Ee0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/51Q5dFH5Ee0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/51Q5dFH5Ee0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/51Q5dFH5Ee0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/51Q5dFH5Ee0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MBC WORLD",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-09T08:18:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_HGXrgaHVsp5J4QZ23kNICcGZsM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "G_lQzUx7DKM"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-03T02:18:08Z",
+        "channelId": "UCkbJc8jMcTXwhtmN5VMwfXg",
+        "title": "군침이 싹 도는 킹더랜드 공식 먹방러🍝 시원한 구'원샷' 비하인드🍻  | 킹더랜드 메이킹👑KING THE LAND",
+        "description": "이거 이거 공식적 첫 데이트 맞나요🤭\n점점 마음을 열어가는 사랑이와, 사랑바라기 구원!\n더욱 더 기대되는 케미! ＜킹더랜드＞ 3,4화 메이킹 비하인드 시작합니다🔥\n\n과거의 아픔으로 거짓된 웃음을 경멸하는 '구원'과\n엄마와의 추억을 따라 킹호텔에 발을 들인 '천사랑'\n이 둘의 달콤살벌 로맨틱 코미디\n\nJTBC 토일드라마 ＜킹더랜드＞  \n매주 토요일 일요일 밤 10시 30분 방송❤\n\n#킹더랜드_메이킹 #이준호 #임윤아",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/G_lQzUx7DKM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/G_lQzUx7DKM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/G_lQzUx7DKM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/G_lQzUx7DKM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/G_lQzUx7DKM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JTBC Drama",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-03T02:18:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "q_aG21OaVkTZfcqOM9lRwE17rME",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "76KCKSI67qw"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-24T00:21:05Z",
+        "channelId": "UCmjNKt6kITwaZTqvWuaSPLg",
+        "title": "[선공개] 신승훈×이승기, 어디서도 볼 수 없는 감성 듀엣♬ ‘I Believe’ㅣ집사부일체(Master in the House)ㅣSBS ENTER.",
+        "description": "예　능 | 집사부일체 121회\n본방송 | 5월 24일 일요일 저녁 6시 25분\n\nSBS 일요일 예능 '집사부일체'\n☞ 오후 6시 25분 본방송\n\n#집사부일체 #신승훈 #이승기\n\n▶ Hompage : https://www.sbs.co.kr/tv/enter\n▶ Subscribe SBS Entertainment : https://bit.ly/2SpOhMC",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/76KCKSI67qw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/76KCKSI67qw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/76KCKSI67qw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/76KCKSI67qw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/76KCKSI67qw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SBS Entertainment",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-24T00:21:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5_klogFER9VqliHXnplOz3U-KIE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jGDD9MWpIas"
+      },
+      "snippet": {
+        "publishedAt": "2020-01-31T07:25:26Z",
+        "channelId": "UCsRIHt5FkbGc6cQtCxt-ufA",
+        "title": "[#도깨비] ㄴ(°0°)ㄱ..덕화와 김 비서한테 정체 들키는 부주의한 도깨비X저승사자 모음ㅋㅋㅋ",
+        "description": "#다시보는도깨비 #Diggle\nㄴ(°0°)ㄱ..덕화와 김 비서한테 정체 들키는 부주의한 도깨비X저승사자 모음ㅋㅋㅋ\n더 많은 꿀잼 영상은? ▶️ tvN D CLASSIC : https://bit.ly/2KT666f",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jGDD9MWpIas/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jGDD9MWpIas/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jGDD9MWpIas/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jGDD9MWpIas/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jGDD9MWpIas/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "tvN D ENT",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-01-31T07:25:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xBvzsxJaQ2txWU-6Ph2oXY-ao54",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "O1JYOAIuwng"
+      },
+      "snippet": {
+        "publishedAt": "2018-01-29T01:01:58Z",
+        "channelId": "UCMNiqKtj6kuZZs23yW5m0Iw",
+        "title": "Divorce (이혼) (Feat. Sunwoo JungA) (선우정아)",
+        "description": "Provided to YouTube by Loen Entertainment\n\nDivorce (이혼) (Feat. Sunwoo JungA) (선우정아) · Cho Jung Chi(조정치)\n\n3\n\n℗ MYSTIC ENTERTAINMENT\n\nReleased on: 2018-01-26\n\nAuto-generated by YouTube.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/O1JYOAIuwng/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/O1JYOAIuwng/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/O1JYOAIuwng/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/O1JYOAIuwng/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/O1JYOAIuwng/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Cho Jung Chi - Topic",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-01-29T01:01:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0hX7T0zlgcWQdrXfYyECTJ8ssNU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XsYrkJym60U"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-31T14:19:37Z",
+        "channelId": "UCe52oeb7Xv_KaJsEzcKXJJg",
+        "title": "[가요대제전] YOONAXJUNHO - Love Never Felt So Good FanCam(Horizontal Ver.)|MBC Music Festival|MBC221231방송",
+        "description": "[가요대제전] YOONA X JUNHO - Love Never Felt So Good(윤아 X 준호 – 러브 네버 펠트 쏘 굿) FanCam (Horizontal Ver.) | MBC Music Festival | MBC221231방송\n\n#윤아 #이준호 #Love_Never_Felt_So_Good #MBCKPOP\n\n예능연구소 Twitter: https://twitter.com/MBC_entertain\n예능연구소 Instagram: https://www.instagram.com/mbcentertain\n예능연구소 Facebook: https://www.facebook.com/MBCentertain\n예능연구소 Naver Post: https://bit.ly/2CJILPj",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XsYrkJym60U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XsYrkJym60U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XsYrkJym60U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XsYrkJym60U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XsYrkJym60U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MBCkpop",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-31T14:19:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8ISJ1QH1gh7dBIpKDYaeFM-O0-M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3xduvuytLpI"
+      },
+      "snippet": {
+        "publishedAt": "2021-04-22T08:03:40Z",
+        "channelId": "UCj28FvPyq8pBOM-fSH-M_uQ",
+        "title": "[3회 선공개] 시켜줘. 명예 제주 도민🌼  제주 여행 꿀TIP 대.방.출✨",
+        "description": "당신에게 일주일의 강제(?) 휴가가 생긴다면?👀\n그곳이 제주라면?!✈️ 주목 주목!!!!!!!!!\n명예 제주 도민 MC들이 제주에 관한 A to Z를 알려dream니다!\n\n다양한 정보가 있는! [신과 함께] 많.관.부🍻\n\n4월 23일(금) 오후 10시 30분 채널S 에서 만나요👋\n\n#신과함께 #채널S \n#신동엽 #박선영 #이용진 \n#시우민 #성시경\n\n\n더 많은 SM C&C STUDIO 소식을 알고싶다면?\nView more information from SM C&C STUDIO\n\nFacebook 👉 https://www.facebook.com/smcncstudio\nInstagram 👉 https://www.instagram.com/smcnc_studio/\nTwitter 👉 https://twitter.com/smcnc_studio\n\n\n\n비즈니스 문의 : smccbiz@smtown.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3xduvuytLpI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3xduvuytLpI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3xduvuytLpI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3xduvuytLpI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "SM C&C STUDIO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-04-22T08:03:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ALTyDGGt9jW0aN72ohfJ6OdhCts",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_wJ29E-mPG0"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-09T01:16:37Z",
+        "channelId": "UC5C3KmkYqIbaMvluYk_9pKg",
+        "title": "職員瞧不起新来的女孩，怎料她竟是集團千金 💗 Chinese Television Dramas",
+        "description": "剧名（ 电影名字（Drama | Movie Title）：甜蜜暴击\n\nSubscribe for more Chinese television dramas 订阅频道: https://www.youtube.com/channel/UC5C3KmkYqIbaMvluYk_9pKg?sub_confirmation=1 \n\nCROTON | TMBJ—DSJ \n\n#小幸运影视汇#中国电视剧#Chinese Drama",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_wJ29E-mPG0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_wJ29E-mPG0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_wJ29E-mPG0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_wJ29E-mPG0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_wJ29E-mPG0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "小幸运影视汇",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-09T01:16:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4eI2GbhYAtpF5MMvN8FPHw3geUI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CfRdo-_ntis"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-03T02:07:15Z",
+        "channelId": "UCkbJc8jMcTXwhtmN5VMwfXg",
+        "title": "[메이킹] 나타났다 사라졌다, 빛까지 내뿜는✨ 강산 초능력의 비밀 전부 알려드림🎉│기적의 형제👨🏻‍🤝‍👨🏻",
+        "description": "진지한 얼굴이지만\n장난은 못 참는 강산은 못 말려💫\n\n커다란 눈망울로 그윽하게 지켜보면\n좋아할 수밖에 없쟈나ㅠㅠㅠㅠㅠ\n\n손에서 빛도 뿜고 침대에서 사라지는 강산의\n영업 비밀(?) 메이킹에서만 공개하니까\n슬쩍 보고 가세요😎\n\nJTBC 수목드라마 ＜기적의 형제＞\n매주 수, 목 밤 10시 30분 본방사수👨🏻‍🤝‍👨🏻⚡\n\n#기적의형제 #정우 #배현성 #박유림 #오만석 #이기우",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CfRdo-_ntis/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CfRdo-_ntis/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CfRdo-_ntis/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CfRdo-_ntis/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CfRdo-_ntis/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JTBC Drama",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-03T02:07:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "aGy-BTA5POMoHWCo1k8NVq7k7Vk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vWdHDS2ZUiU"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-30T00:23:42Z",
+        "channelId": "UCkbJc8jMcTXwhtmN5VMwfXg",
+        "title": "[젭포일러] ＂어머, 뭐야~❤️＂하면서 계속 보게 되는 ＜킹더랜드＞ 3-4회 젭포일러 | 킹더랜드 KING THE LAND👑",
+        "description": "배우들: (착실하게 연기하며) ＂아, 뭐야~~~＂\n시청자들: (TV에서 눈을 떼지 않으며) ＂아, 뭐야~~~＂ \n\n아는 맛에 더욱 손이 가는 ＜킹더랜드＞\n원럽 커플과 함께 하이라이트 보고 비하인드 얘기 나눠요~🗣️\n\nJTBC 토일드라마 ＜킹더랜드＞ \n매주 토요일 일요일 밤 10시 30분 본방사수❤\n\n#킹더랜드 #준호 #윤아\n\n———————————————————————\n\nJTBC Youtube channel communicating with fans faster \nView more videos & informations ☞\n\n▶ Homepage : http://www.jtbc.co.kr\n▶ Youtube : https://www.youtube.com/user/jtbcdrama\n▶ Facebook : https://www.facebook.com/jtbcdramapage\n▶ Twitter : https://twitter.com/jtbclove\n▶ INSTAGRAM : https://www.instagram.com/jtbcdrama",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vWdHDS2ZUiU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vWdHDS2ZUiU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vWdHDS2ZUiU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vWdHDS2ZUiU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vWdHDS2ZUiU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JTBC Drama",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-30T00:23:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EurXqMbckvkMxQkY4jZcNtCwQ_s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fkEpMm2WWDU"
+      },
+      "snippet": {
+        "publishedAt": "2020-02-07T03:58:29Z",
+        "channelId": "UCF3UEVPt5zZTlBVJwDG317g",
+        "title": "[골라봐야지][ENG] ※배꼽주의※ \"야!! 250원~!!! 아니! 이 XX는...!\" 귀염 뽀짝 어린이들♥ 레전드 모음ㅋㅋㅋㅋ #한끼줍쇼 #JTBC봐야지",
+        "description": "#집에서함께해요\n#집에서함께힐링해요 - Heal with Me\n\n[ 어린이 레전드 모음▶한끼줍쇼 웃음 버튼 ]\n\n보기만 해도 흐뭇한 미소 짓고\n자꾸 보게 되는\n♥귀염 뽀짝 어린이들 레전드 편♥\n\n\n[JTBC봐야지] 구독하기☞ http://bitly.kr/VgFZ3\n\n\n------------------------------------------------------\n📌 영상 속 프로그램은?\n\n【한끼줍쇼｜Dining Together】 \nhttp://bit.ly/2VwkSjh\n\n------------------------------------------------------",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fkEpMm2WWDU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fkEpMm2WWDU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fkEpMm2WWDU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fkEpMm2WWDU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fkEpMm2WWDU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JTBC Voyage",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-02-07T03:58:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kAKuusTlpz_V9ivFeXJ8IWm0A-8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yEUqT6iVTdM"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-01T13:41:52Z",
+        "channelId": "UCkbJc8jMcTXwhtmN5VMwfXg",
+        "title": "[6회 예고] 허락할게. 데이트하자",
+        "description": "“약속할게. 다시는 이런 일 없을 거야.” \n고립된 사랑(윤아)를 혼자 구하러 간 원(준호). \n킹호텔은 발칵 뒤집히고. 이 일이 약점 잡힐 수도 있지만, 원에게는 상관이 없다. \n추위에 떨면서도 해맑은 사랑을 보며, 원은 사랑의 웃음을 지켜주기로 다짐하는데…\n두 사람 앞에 뜻밖의 행운이 찾아온다. \n지리산 일정을 함께 마치고 복귀하는 길, \n원은 사랑을 할머니네에 바래다주다 사랑의 할머니에게 붙잡히게 되는데! \n원의 손에 쥐어진 것은… 앞치마?!\n\nJTBC 토일드라마 〈킹더랜드〉\n7월 2일 일요일 밤 10시 30분 방송\n\n#킹더랜드 #JTBC토일드라마 #이준호 #임윤아\n\n📌 공홈에서 리플레이 : http://tv.jtbc.co.kr/kingtheland\n📌 #티빙에서스트리밍 : https://tving.onelink.me/xHqC/1vihef6r",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yEUqT6iVTdM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yEUqT6iVTdM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yEUqT6iVTdM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yEUqT6iVTdM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yEUqT6iVTdM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JTBC Drama",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-01T13:41:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Yw6kM97TMEVFYCVVrvE49Xaudpw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jreV94kjTbs"
+      },
+      "snippet": {
+        "publishedAt": "2021-07-12T09:21:28Z",
+        "channelId": "UCS_hnpJLQTvBkqALgapi_4g",
+        "title": "[페이스캠4K] 투피엠 준호 '해야 해' (2PM JUNHO 'Make it' FaceCam)│@SBS Inkigayo_2021.07.11.",
+        "description": "[페이스캠4K] 투피엠 준호 '해야 해' (2PM JUNHO 'Make it' FaceCam)│@SBS Inkigayo_2021.07.11.\n\n#인기가요 #2PM #해야해\n---------------------------------------------------------------------------------------—\n\n☞ MORE ＂SBS KPOP＂\n\n- Twitter : https://twitter.com/kpop_sbs\n- Facebook :https://www.facebook.com/sbskpop\n- Instagram : https://instagram.com/sbskpop_official",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jreV94kjTbs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jreV94kjTbs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jreV94kjTbs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jreV94kjTbs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jreV94kjTbs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "스브스케이팝 X INKIGAYO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-07-12T09:21:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TJr0_Mu0NZOoRRRqRITxXP30yk4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EsDz_FFjo4Q"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-03T01:03:27Z",
+        "channelId": "UCFL1sCAksD6_7JIZwwHcwjQ",
+        "title": "[미공개] 열심히 했을 뿐인데... 필요 이상으로 잘한 탓에 잘릴 위기인(?) 원성준 ㅋㅋ | ＜최강야구＞ 비하인드 cam 50",
+        "description": "성균관대 경기가 끝난 후의 한 연습날...\n\n＂그 팀에서 계속 뛰는 게 더 낫겠다＂\n＂유니폼 잘 어울리던데＂\n\n몬스터즈를 배신한 자 원성준, 결국 최후를 맞다?💦\n\n매주 월요일 밤 10시 30분 ＜#최강야구＞ 본방사수!⚾",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EsDz_FFjo4Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EsDz_FFjo4Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EsDz_FFjo4Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EsDz_FFjo4Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EsDz_FFjo4Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JTBC Entertainment",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-03T01:03:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hecAiMYGMn3FaQirfDp9OC97Tls",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rKkMrZ_zZms"
+      },
+      "snippet": {
+        "publishedAt": "2019-05-01T01:37:21Z",
+        "channelId": "UCPKXwzWCfrgHjXilOnIO35Q",
+        "title": "20190430 김남길 라디오아파트",
+        "description": "[V LIVE] RADIO APART X KIM NAM GIL (RADIO APART X 김남길)(feat. 김성균)\n\n배우님... 정말 진심으로 라디오 디제이 해주셨으면 좋겠어요8ㅅ8\n\n한국어 자막 수정 중이지만 자막이 필요하신 분들은 자막 키고 보시면서 길DJ와 행복한 시간 보내세요😆\n\n김성균 배우님과의 통화에서\nN은 김남길 배우님 S는 김성균 배우님이십니다:-)\n두 분이 서로 그렇게 끌리는 이유가 있다니까요\n다른 이니셜이 어떻게 N이랑 S야..\n데스티니 오져벌임... 트루럽..♥",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rKkMrZ_zZms/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rKkMrZ_zZms/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rKkMrZ_zZms/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rKkMrZ_zZms/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rKkMrZ_zZms/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "슈가필_s",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-05-01T01:37:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EYFRi94ouV-LndTItSbdv511y0E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QObdcW3Cc1s"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-24T01:19:42Z",
+        "channelId": "UCmBTUk3jubv9PnevIDAq77A",
+        "title": "Kim Min Jae and So Ju Yeon Complete Lovestory and Moments in Dr Romantic 3",
+        "description": "Kim Min Jae and So Ju Yeon Complete Lovestory and Moments in Dr. Romantic 3\n\nViewers' favorite Dimple Couple #kimminjae and #sojuyeon gave viewers something to talk about and look forward to in the recently concluded #drromantic3.\n\nFrom their break up to their make up, this couple's chemistry could be felt and seen through the screens. \n\nMost of us were sad when they broke up and were stoked when they shared their make up kiss. #Kimminjae''s confession of love was superb and swoon-worthy. He sees it as uncool, but I thought it was beautiful and sincere.\n\nThis video contains #kimminjaeandsojuyeon 's complete moments in #drromanticseason3. I made this edit for those of us who miss seeing them on our screens.\n\nUpdate: I had to cut out the first segment of the full video due to some YouTube issues. To view the first part of the video, please check out https://youtu.be/jKEaEUnKh4M. Happy viewing!\n\nDon't forget to subscribe to this channel @silverscreen_ and turn on your notification bell for all things wonderfully #kdrama \n\nLet me know if you would like to see all their moments from #drromantic2 to #drromantic3 in the comment section below.\n\nThanks for watching, bye.\n\n#drromantic3 #drromanticseason3 #doctorromantic3 #kimminjae #sojuyeon #doctorromanticseason3 #kdrama #kimminjaeandsojuyeonlovestory #drromantic3kimminjaeandsojuyeonmoments #drromantic3kimminjaesojuyeon",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QObdcW3Cc1s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QObdcW3Cc1s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QObdcW3Cc1s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QObdcW3Cc1s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QObdcW3Cc1s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Silver Screen",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-24T01:19:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yUQSTlMn06Tq8sz891s6K6YkNKw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KEYisnMYr5E"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-30T04:44:44Z",
+        "channelId": "UCwx6n_4OcLgzAGdty0RWCoA",
+        "title": "[EN]🌙새벽 4시🌙에 출근한 쌍규... 과일 팔고 왔습니다🍎 | 과일 가게 | 인피니트 | 김성규 |  워크맨2",
+        "description": "JOB것덜~~~♥ 인력소장이다,,~~\n\n성규가,, 성규를 만나서\n과일 가게에 다녀왔다,,~\n\n새벽 4시부터 출근해서,,,\n정말 고생하고 왔다는거 아니여,,,\n\n잡것덜도,, 과일 많이 먹고,,,\n예뻐지고 건강해지도록 혀,,,\n\n이번주도 행복하고,,,\n다음주도 행복하고,, 항상 행복해,, 잡것덜~♥\n\n세상의 모든 job것들을 리뷰한다 [워크맨]\n▶ 매주 금 오후 6시 공개\n▶ 일거리 제보: workman2you@gmail.com\n\n*일반인 출연자에 대한 지나친 비방 및 인신공격성 댓글은 관리자에 의해 삭제될 수 있습니다.\n\n#과일가게 #과일장사 #과일 \n#워크맨2 #장성규 #workman\n#알바 #아르바이트 #알바리뷰\n#극한직업 #직업체험 #극한알바",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KEYisnMYr5E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KEYisnMYr5E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KEYisnMYr5E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KEYisnMYr5E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KEYisnMYr5E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "워크맨-Workman",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-30T04:44:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6YO-nNE3LPqiWZ8aSo8kSrv4MfA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "U4v4pyiE7E4"
+      },
+      "snippet": {
+        "publishedAt": "2021-02-03T14:00:46Z",
+        "channelId": "UC9w-h_ciMmX64TcLRcb1xPg",
+        "title": "[하이라이트] 신혜선 🍜저 세상 메뉴에 자존심 와장창🔥  양식🍽 도전한 대령숙수 김인권?! 케미 만렙 수라간즈 총정리 1탄 #철인왕후 | Mr. Queen EP.17",
+        "description": "tvN 토일드라마 #철인왕후 ★매주 토 일 밤 9시 본 방송★\n\n00:00 해장 라면 찾는 소봉! 대령숙수 자존심 와장창\n05:06 🍜삼향라면?! 홍연이도 감동한 맛❤️\n07:35 청와대 셰프 소봉 VS 대령숙수 만복! 수라간을 부탁해(?)\n11:32 타락죽에 옹심이?! 만복은 이해 불가! 소봉의 뇨끼\n15:01 소봉, 수라간도 대왕대비 입맛도 완전 정복!\n18:45 소봉 없는 궁궐! 만복도 뇨끼 도전?!\n\n#신혜선 #김정현 #배종옥 #김태우 #설인아 #나인우\n불의의 사고로 대한민국 대표 허세남 영혼이 깃들어 '저 세상 텐션'을 갖게 된 중전 김소용과 두 얼굴의 임금 철종 사이에서 벌어지는 영혼가출 스캔들",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U4v4pyiE7E4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U4v4pyiE7E4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U4v4pyiE7E4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/U4v4pyiE7E4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/U4v4pyiE7E4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "tvN drama",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-02-03T14:00:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "w-pCwSZ8Ly86ubGL_oPd7YKdwBk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "scscLGi6lYo"
+      },
+      "snippet": {
+        "publishedAt": "2021-05-24T09:21:29Z",
+        "channelId": "UCAqlxq4Bs9PjI86M9lM18TA",
+        "title": "This is Jun Ho's dressing room [Home Alone Ep 397]",
+        "description": "Subscribe to KOCOWA and watch all episodes of \"#HomeAlone\" with professional ENG SUBs now ✨😎\nWeb ▶https://bit.ly/2U60i9t\nApp ▶ https://kocowa.onelink.me/bhfW/c4b2017\n\n#HomeAlone #KOCOWA #KCP\n\n💌ABOUT Home Alone\n\nHome Alone is a reality show that portrays everyday lives of your favorite celebrities in the most intimate setting. The show invites the viewers to their homes, enabling them to closely observe their lives. From time to time, the stars of Home Alone have special gatherings as members of “Rainbow Club”, where each member is a friendly neighbor to one another as a fellow single dweller of the house. With Jun Hyun Moo, Park Na Rae, Han Hye Jin, and Lee Si Eon as the hosts, they observe the lives of celebrities with various occupations, including actors and actresses, top models, athletes, comedians, and so on. Although the gender, lifestyle, personality, and many other attributes are all different, they all have this one thing in common. It's that they all live alone.\n\nGENRE: Variety \nSUBTITLE: English, Portuguese \nCOUNTRY: Korea \nYEAR: 2017 \nMAIN CAST: Park Na Rae, Kian84, Sung Hoon, Lee Si Eon\n\nSUBSCRIBE TO KOCOWA’S YOUTUBE CHANNEL\nClick the link to subscribe to our channel for the latest shows & updates:\nhttps://www.youtube.com/channel/UCAqlxq4Bs9PjI86M9lM18TA \n\nSTART YOUR FREE TRIAL\nhttps://www.kocowa.com/en_us/plan\n\nFOLLOW US\nFacebook ▶ https://www.facebook.com/kocowa/\nInstagram ▶ https://www.instagram.com/kocowa.official\nTwitter ▶ https://twitter.com/kocowa_official\nBlog  “Korean Entertainment for Everyone” ▶ https://blog.kocowa.com/\n\nAbout #KOCOWA #KCP:\nKOCOWA is a global entertainment streaming service where people can discover, watch, and fall in love with Korean programming across the Americas. KOCOWA offers over 10,000 hours of exclusive dramas, reality, and k-pop shows direct from Korea and all with multi-language subtitles for international ‘Hallyu’ fans. New shows are uploaded daily and within 6 hours after the Korean linear broadcast.\n\nKOCOWA is powered by of the top three Korean broadcasting companies (KBS, MBC, & SBS) and many other partners from Korea.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/scscLGi6lYo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/scscLGi6lYo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/scscLGi6lYo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/scscLGi6lYo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/scscLGi6lYo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "KOCOWA TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-05-24T09:21:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "t975kTeyd8tiIg8_28eaeFkyBTU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nqby_tCfGfM"
+      },
+      "snippet": {
+        "publishedAt": "2013-11-21T07:15:19Z",
+        "channelId": "UCcOYEm78CpaZQvPE6LtoSeA",
+        "title": "[상속자들] 물장사가 그 물장사가 아니란 걸 들킨 예솔 / 'The Heirs' Review",
+        "description": "\"그깟 비서실장 아들 뭐 볼거있냐..ㅎㅎ\"\n예솔이 깝죽거리다가 물장사가 그 물장사가 아니란 걸 들킴...😱\n\nSBSNOW channel is communicating with you on Youtube.\nPlease subscribe our channel and have more fun!\nRight now, SBSNOW\n\n#Leeminho #Parkshinhye #KrystalJung\n\n▶ Facebook :  https://www.facebook.com/SBSdramaZip/\n▶ Instagram : https://www.instagram.com/sbsnow_insta/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nqby_tCfGfM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nqby_tCfGfM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nqby_tCfGfM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nqby_tCfGfM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nqby_tCfGfM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SBS NOW / SBS 공식 채널",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-11-21T07:15:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "l-8wDemaj57UG-WJbgNyZvX46SY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CfZznoGA5nA"
+      },
+      "snippet": {
+        "publishedAt": "2021-08-20T06:47:24Z",
+        "channelId": "UC23WpffpWOnD7rek4Nus5jg",
+        "title": "Junho 2PM Sampai Pukul Meja Mendengar Imajinasi Jessi 🤣 #TheSixthSense2 🇮🇩INDO SUB🇮🇩",
+        "description": "#Jessi terus membuat cerita permainan mereka menjadi cerita dewasa. #Junho sampai memukuli meja saat mendengar imajinasi #Jessi. Tonton selengkapnya di #TheSixthSense2. \nKami juga menambahkan teks terjemahan untuk para penggemar Indonesia kami! Jangan lupa nyalakan CC untuk subtitle Bahasa Indonesia! Subscribe ke channel kami agar tidak ketinggalan konten menarik terbaru!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CfZznoGA5nA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CfZznoGA5nA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CfZznoGA5nA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CfZznoGA5nA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CfZznoGA5nA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "tvN D Indonesia",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-08-20T06:47:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hYfquIg4XEF_O7yZK8ZJEQT1myY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PoGwJoGY0R4"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-27T09:54:10Z",
+        "channelId": "UCBKdF7ySgSJEaCCNdeFCSxA",
+        "title": "미친듯이 가슴아프고 설레는 “이성경,김영광” 주연의 로맨스 드라마 《사랑이라 말해요》 2시간 반 몰아보기",
+        "description": "#이성경 #김영광 #드라마\n\n사랑이라 말해요 (Call It Love, 2023)\n\n오늘 소개한 드라마는  \"사랑이라 말해요\" 입니다\n디즈니 플러스 에서 다시 보실 수 있습니다\n\n구독과 좋아요 댓글은 큰 힘이 됩니다😊\n\n비즈니스 문의 forhugh@naver.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PoGwJoGY0R4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PoGwJoGY0R4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PoGwJoGY0R4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PoGwJoGY0R4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PoGwJoGY0R4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "휴휴무비",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-27T09:54:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xClQIjBiBYBgXPJ0xXggbdSblR4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "T1Ta2k8uYrw"
+      },
+      "snippet": {
+        "publishedAt": "2022-01-01T03:51:09Z",
+        "channelId": "UCe52oeb7Xv_KaJsEzcKXJJg",
+        "title": "[가요대제전 4K 직캠] 이준호 'Señorita' (JUNHO FanCam) @MBCMusicFestival_211231 #예능연구소직캠",
+        "description": "Watch more video clips of the Hottest K-POP Stars\n더 많은 MBC 예능 ↓↓↓\n\n \n예능연구소 페이스북\n☞ https://www.facebook.com/MBCentertain\n\n예능연구소 트위터\n☞ https://twitter.com/MBC_entertain \n\n예능연구소 인스타그램\n☞ https://www.instagram.com/mbcentertain/\n\n예능연구소 포스트\n☞ https://bit.ly/2CJILPj\n\n\nMBC 예능 보고 또 보고 예능연구소\n\nMBC211231방송",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/T1Ta2k8uYrw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/T1Ta2k8uYrw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/T1Ta2k8uYrw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/T1Ta2k8uYrw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/T1Ta2k8uYrw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MBCkpop",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-01-01T03:51:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PnYtGdK2O89fbWa9d6n8A5XWNDM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7C-7fpfYraE"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-02T15:10:47Z",
+        "channelId": "UCrbLDRbD7EmERikOq3_7f3A",
+        "title": "King The Land Episode 7 Preview [ Eng Sub ] | [7화 예고]  킹더랜드 |  Netflix x JTBC",
+        "description": "킹더랜드\nKing The Land\n\nKing The Land Ep 1\nKing The Land Episode 1\nKing The Land Ep 6\nKing The Land Episode 6\nKing The Land Ep 7 Preview\nKing The Land Episode 7 Preview\n\nLee Jun Ho\nIm Yoona\nKo Won Hee\n\n#KingTheLand #Yoona #LeeJunHo #CinePostmortem",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7C-7fpfYraE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7C-7fpfYraE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7C-7fpfYraE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7C-7fpfYraE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7C-7fpfYraE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Cine Postmortem",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-02T15:10:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1ruC4HslVp4reakSyzR8zD8aVhE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mIsBLvUpFkA"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-17T10:03:33Z",
+        "channelId": "UCwNVDlUgdBlmVWRPy4Nk0Dw",
+        "title": "성동일 개딸 텐션으로 만나자마자 짱친맺기ㅋㅋㅋ 댕댕미 가득 여진구X이성경 케미 귀여움이 2배♥ | #바퀴달린집 #ing",
+        "description": "#ing #바퀴달린집 #이성경 #여진구\n\n당신이 놓치지 말아야 할 모든 것 #샾잉\n▶ 샾잉 최신 콘텐츠 보러가기 : https://www.youtube.com/c/샾잉ing",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mIsBLvUpFkA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mIsBLvUpFkA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mIsBLvUpFkA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mIsBLvUpFkA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mIsBLvUpFkA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "샾잉 #ing",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-17T10:03:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EOAZDsgkB1hd6u86uz-Ragifs28",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "V9oIy08BUiQ"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-01T00:06:21Z",
+        "channelId": "UCkbJc8jMcTXwhtmN5VMwfXg",
+        "title": "[5회 선공개] 임윤아 미어캣 모드👀 이준호에게 은밀하게 선물 건네는 중.. | 〈킹더랜드〉 7/1(토) 밤 10시 30분 방송",
+        "description": "[5회 선공개] 천사랑(임윤아) 미어캣 모드👀\n구원(이준호)에게 은밀하게 선물 건네는 중..\n\nJTBC 토일드라마 〈킹더랜드〉\n7월 1일 토요일 밤 10시 30분 방송\n\n#킹더랜드 #JTBC토일드라마 #이준호 #임윤아\n\n📌 공홈에서 리플레이 : http://tv.jtbc.co.kr/kingtheland\n📌 #티빙에서스트리밍 : https://tving.onelink.me/xHqC/1vihef6r",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V9oIy08BUiQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V9oIy08BUiQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V9oIy08BUiQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/V9oIy08BUiQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/V9oIy08BUiQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JTBC Drama",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-01T00:06:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WquDzt7XiQ_qU9lOMAHtZrwYdEg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TX54zJhP_tU"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-17T22:23:55Z",
+        "channelId": "UC9psHeCNxmjO0kDq4Jygmbw",
+        "title": "레전드 웹툰 원작 드라마 ≪이태원 클라쓰≫ [한방에 몰아보기]",
+        "description": "이번 리뷰는 JTBC 드라마 ≪이태원 클라쓰≫입니다\n≪이태원 클라쓰≫은 넷플릭스에서 시청가능합니다\n\n#드라마리뷰 #이태원클라쓰 #JTBC드라마",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TX54zJhP_tU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TX54zJhP_tU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TX54zJhP_tU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TX54zJhP_tU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TX54zJhP_tU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "오티티Tube : OTT Tube",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-17T22:23:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ICOksSNd05tm7HyNxSL65n8AqAY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sTJWu5uZ-Ao"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-02T14:51:30Z",
+        "channelId": "UCkbJc8jMcTXwhtmN5VMwfXg",
+        "title": "[7회 예고] 내 진심은 통하고 있어",
+        "description": "[7회 예고] 내 진심은 통하고 있어\n\nJTBC 토일드라마 〈킹더랜드〉\n7월 8일 토요일 밤 10시 30분 방송\n\n#킹더랜드 #JTBC토일드라마 #이준호 #임윤아\n\n📌 공홈에서 리플레이 : http://tv.jtbc.co.kr/kingtheland\n📌 #티빙에서스트리밍 : https://tving.onelink.me/xHqC/1vihef6r",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sTJWu5uZ-Ao/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sTJWu5uZ-Ao/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sTJWu5uZ-Ao/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sTJWu5uZ-Ao/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sTJWu5uZ-Ao/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JTBC Drama",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-02T14:51:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pMpt2K2PtRfjhdyf72VHzLuSpbI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fsiECnMzB2c"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-02T02:14:25Z",
+        "channelId": "UC505joogzpmhdgR8FJiwRsg",
+        "title": "Lee Junho(이준호) ✘ YOONA(임윤아) - MOMENT",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fsiECnMzB2c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fsiECnMzB2c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fsiECnMzB2c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fsiECnMzB2c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fsiECnMzB2c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "มังคุดของพร้อม",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-02T02:14:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "q4_LVmgi-RG9O5q67iRMYpFJNrQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "90bJsHu65N8"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-03T00:35:23Z",
+        "channelId": "UCV7trbjGinsfa29mc-YDB6Q",
+        "title": "《킹더랜드 6화》 드디어 서로의 마음을 확인한 구원과 사란 그런데 갑자기 등장한 경쟁자?!",
+        "description": "킹더랜드 6화 어제 고백 받은 썸남에게 결혼을 약속한 여자가 있었는데, 내눈앞에서 포옹하고 선물을 줘?!! [이준호 임윤아 주연의 킹더랜드 6화 몰아보기]\n#킹더랜드 #이준호 #임윤아\n\n#드라마 #킹더랜드\n📺드라마 ≪킹더랜드≫ 6화의 내용입니다.\n채널 JTBC에서 매주 토, 일 / 밤 10시 30분 방영됩니다.\n\n🚨저작권 협의를 마친 영상입니다.\n🚨The movie clips on my channel has gotten copyright permission of copyright holder.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/90bJsHu65N8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/90bJsHu65N8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/90bJsHu65N8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/90bJsHu65N8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/90bJsHu65N8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "무드남 : Movie Drama",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-03T00:35:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TqTpo2brjawjo-qz_4_SCxkhqg8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PLlMayzpTaM"
+      },
+      "snippet": {
+        "publishedAt": "2022-01-18T05:00:57Z",
+        "channelId": "UC3re3ueOE_6VZK85zlEUWFA",
+        "title": "🔥하룻밤만 바람 피울래요?? 기름보다 뜨거운 이준호 멜로.zip🔥 #기름진멜로 #모았캐치 #SBSCatch",
+        "description": "[스브스캐치] 구독하기▶https://goo.gl/bnT3WD\n\n다시보는 〈기름진 멜로〉 명장면\n🔥하룻밤만 바람 피울래요?? 기름보다 뜨거운 이준호 멜로.zip🔥\n#기름진멜로 #모았캐치 #SBSCatch\n\n스브스캐치 페이스북 ▶ https://goo.gl/MYWh4V\n스브스캐치 인스타그램 ▶ https://goo.gl/9kukCu\n기름진 멜로 홈페이지 ▶https://programs.sbs.co.kr/drama/wokoflove/main",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PLlMayzpTaM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PLlMayzpTaM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PLlMayzpTaM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PLlMayzpTaM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PLlMayzpTaM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SBS Catch",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-01-18T05:00:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QieWvHTznSPf1_CYD8YRpuQRwnk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SBf0WXz1AuI"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-03T02:00:53Z",
+        "channelId": "UCj7tB0mu6Ja9AUCBX2XKelg",
+        "title": "설명이 필요 없는 인생 최고의 드라마.. 제발 이 드라마 안 본 사람 없게 해주세요..",
+        "description": "문의 및 컨택트 ddingzal@daum.net\n인스타그램  https://www.instagram.com/ddingzal/\n멤버쉽 가입 https://bit.ly/34TUeqV\n여러분들의 소중한 후원으로 더 좋은 컨텐츠를 만드는데 힘쓰겠습니다\n\n영상출처 -  '나의 해방일지 (2022)' 1-6화\n*JTBC와 저작권 협의 후 제작된 영상입니다\n\n#이민기 #김지원 #나의해방일지",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SBf0WXz1AuI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SBf0WXz1AuI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SBf0WXz1AuI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SBf0WXz1AuI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SBf0WXz1AuI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "띵잘 ddingzal",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-03T02:00:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9hhAJ59wECIrrIvbE-pkUeD0vaU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bRvhOEaHSlo"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-21T06:02:53Z",
+        "channelId": "UCKuwp52MjSk-zeFRpchSheg",
+        "title": "\"너 해고야\" 그렇게 해고되는 건 나였다. 신입사원 함부로 건드린 상사의 최후 |  킹더랜드 1~2회 요약",
+        "description": "[JTBC X 유튜버 드림텔러]\n✔️드라마 '킹더랜드 ' 1~2회 요약\n\n\"너 해고야\" 그렇게 해고되는 건 나였다...\n신입사원 함부로 건드린 상사의 최후\n\n#킹더랜드 #이준호 #임윤아\n\n[JTBC 드라마봐야지] 구독하기☞ http://asq.kr/Hd3sRqnnPvcC",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bRvhOEaHSlo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bRvhOEaHSlo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bRvhOEaHSlo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bRvhOEaHSlo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bRvhOEaHSlo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DRAMA Voyage",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-21T06:02:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Bx-xUoKoKLiBhwG5Dii-ZZVqcJM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "S6XGSU3yBhs"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-03T00:47:27Z",
+        "channelId": "UC2UeEbk6O-Tv2N9anoqInQg",
+        "title": "김하성 2년연속 10홈런 달성! 12k 특급신인 강판시킨 결정적 한방!",
+        "description": "#해외반응 #김하성 #김하성 10호 홈런",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S6XGSU3yBhs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S6XGSU3yBhs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S6XGSU3yBhs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/S6XGSU3yBhs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/S6XGSU3yBhs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "월드런닝타임TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-03T00:47:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zBPMQ8tbePPwQmOWJ0aDWNihiPg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "h_P-LNR3B5I"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-30T04:22:08Z",
+        "channelId": "UCzxE9AgEmkLqNs2XMtTXF1g",
+        "title": "[풍자愛술 EP.14] 꿈에 그리던 손님! 송가인이어라~📢ㅣ트로트 요정의 간드러지는 노래 한가락🎙🎶ㅣ흐리고 비오는 요즘 딱! 막걸리 한 상",
+        "description": "아따 진도의 딸 가인이 왔어라~!\n촬영 전부터 기대했던 오늘!! 드디어 모셨습니다👏👏\n♥좋아요♥구독♥알림설정 해주실 거죠?!\n \n👥👤👥👤뭐야...👤👤👥👥👥(수군)👥👥\n👤요즘 Hot 한 거...👤👥👤👤...(웅성웅성)👤👥\n👥👤.... 송가인 막걸리 나왔다던데..👥👥👤👥\n👥👤👤👤👥...(웅)(성)...👥👤👥👥👤👥👥\n👥👤..구하기 어렵대....👤👥👥👤(수군)...👥👤\n👥(수군)...👤👥👤👥👤(웅성)...👥👤👤👥👥👤👥\n\n‼막걸리계의 신흥강자가 나타났다!!!!!!!!!!\n그 이름하여 바로 \"막걸리어라\"‼\n\n계속되는 비 소식에 우리가 챙겨야하는 건?\n우산☂ 그리고,,, 언제든 꺼내서 마실 수 있는 막걸리어라~🍶\n지금 당장 막걸리 한잔합시다 :) \n\n📌[풍자愛술🍶 Pick 추천 메뉴]\n편육+해물파전+고추튀김+묵사발+홍어무침+막걸리어라(유료광고)\n\n🙏비즈니스및 PPL문의는 dssoft@daerisoft.com으로 메일 주세요.\n\n#풍자 #송가인 #막걸리어라 #가인이어라\n#풍자송가인 #송가인라이브  #막걸리 \n#풍자애술 #풍자술방 #풍뎅이 #혼술러 \n#풍자愛술 #좋댓구요스튜디오 #좋댓구요 #좋댓구알",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/h_P-LNR3B5I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/h_P-LNR3B5I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/h_P-LNR3B5I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/h_P-LNR3B5I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/h_P-LNR3B5I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "좋댓구요 스튜디오 - JDGY STUDIO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-30T04:22:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ECRHKW61TF38yitIA4SysTTfy_I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ahHqi0P98ko"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-29T19:02:15Z",
+        "channelId": "UCRmm8763aqO0CoeLCA2jNSA",
+        "title": "[EN] 1박에 2,000만 원짜리 방엔 뭐가 있을까? {호텔 VIP} | 상팔자 ep.4",
+        "description": "“NEVER SAY NO🚫 이런 것까지 해준다고?!”\n\n절대 거절 안 하시는 집사님이랑\n행복한 호캉스..인 줄 알았는데\n\n2.000만 원 뽕 뽑아야 돼서\n술친구랑 무제한 칵테일 들이부음🍾\n\n조식까지 먹어야 하는데…\n팔자 퇴근하기 싫어!!!!!😭😭😭\n\n2023년 신개념 VIP 리뷰 콘텐츠 \n\n👑매일 VIP되는 여자 {상팔자}\n👑매주 금요일 오후 6시\n\n#ootbSTUDIO #엄지윤 #상팔자\n———————————————\n본 영상은 쿤달의 제작 지원을 받았습니다.\n14일간의 꿈꾸던 머릿결, 쿤달 프로틴 데미지케어💜\n★★쿤달공식몰에서 프로틴 데미지케어 라인 구매 시,\n결제창에서 'kunpalja' 할인코드 입력하면 10% 할인!!★★\n(쿤달회원 할인쿠폰 중복 사용 가능, ~7/7)\nhttps://www.kundal.co.kr/product/list.html?cate_no=1543",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ahHqi0P98ko/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ahHqi0P98ko/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ahHqi0P98ko/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ahHqi0P98ko/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ahHqi0P98ko/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ootb STUDIO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-29T19:02:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PLV9QwtOfLGnZH6a-70c5Rpasu8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uGw2ox3tf2o"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-12T07:55:01Z",
+        "channelId": "UCt3lcgvCgAHyobATioEQpIQ",
+        "title": "🔥시청률 1위🔥찍고 해외에서까지 재밌다고 리메이크하며 대박 친 역대급 개꿀잼 드라마 몰아보기!!",
+        "description": "#황정음 #박서준 #고준희 #드라마몰아보기 \n\n\n제목 : 그녀는예뻤다 (1~16화 결말)\n\n00:00:00 ~ 01:29:18 (1~8화)\n\n01:29:18 ~   (9~16화)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uGw2ox3tf2o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uGw2ox3tf2o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uGw2ox3tf2o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uGw2ox3tf2o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uGw2ox3tf2o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뭅픽",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-12T07:55:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GVJvOwiXzv6jDvOYAS0A8uY_IFE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wtmsyaYKTLc"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-30T00:36:23Z",
+        "channelId": "UCkbJc8jMcTXwhtmN5VMwfXg",
+        "title": "[2회 선공개] 역시 전직 쓰레기(?) 정우 ㅋㅋㅋ 배현성 이용할 확률 100%😅 | 〈기적의 형제〉 6/29(목) 밤 10시 30분 방송",
+        "description": "[2회 선공개] 역시 전직 쓰레기(?) 육동주(정우) ㅋㅋㅋ 강산(배현성) 이용할 확률 100%😅\n\nJTBC 수목드라마 〈기적의 형제〉\n6월 29일 목요일 밤 10시 30분 방송\n\n#기적의형제 #JTBC수목드라마 #정우 #배현성\n\n📌 공홈에서 리플레이 : http://tv.jtbc.co.kr/miraculousbrothers\n📌 #티빙에서스트리밍 : https://tving.onelink.me/xHqC/1vihef6r",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wtmsyaYKTLc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wtmsyaYKTLc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wtmsyaYKTLc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wtmsyaYKTLc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wtmsyaYKTLc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JTBC Drama",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-30T00:36:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nYovAE523KDOO-1aL5WDqRAbOlc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VCqh9coOmAk"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-21T20:13:17Z",
+        "channelId": "UCA7TUSbnsi0CiWSmfuGShww",
+        "title": "[재업] 🔥하루만에 넷플릭스 전세계 1위🔥 한국배우의 연기력을 해외에 알려준 개꿀잼 드라마",
+        "description": "#드라마추천 #드라마몰아보기 #넷플릭스 #사냥개들 \n\n오늘 소개 해드린 영상은 \"사냥개들\" 입니다\n구독과 좋아요는 영상 제작에 정말 큰 도움이 됩니다 \n\n비즈니스 문의 : pswdid@gmail.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VCqh9coOmAk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VCqh9coOmAk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VCqh9coOmAk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VCqh9coOmAk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VCqh9coOmAk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "오티티 : OTT",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-21T20:13:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WMYZ1mkhOGlHGOMW76R05KdqEms",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NpGEXJODAyQ"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-02T06:02:31Z",
+        "channelId": "UCcfz-8gGDYJfaRHYD7kkQpw",
+        "title": "갑질하는 재벌들 개박살내는 \"재벌서열 1위 존예녀\" 💥한달내내 넷플 1위 찍고 재밌다고 소문난 직장인 사이다 실현 드라마",
+        "description": "시청률 폭발🔥 재벌과 흙수저의 우아하게 처절한 광고대행사 오피스 드라마! \n#이보영 #손나은 #한준우 #조성하\n알림해두시면 좋아요 💕[카랑구독하기] http://bit.ly/2NIO1r8\n\n\n🚨JTBC드라마 저작권 허가를 받은 콜라보 리뷰입니다\n(The movie clips on this channel has gotten copyright permission of copyright holder)\n\n\n💾JTBC 콜라보 기념! [대행사] 몰아보기 이용권💾\n방금 시청한 JTBC 드라마를 몰아보고 싶다면\n30일 한정 구매할 수 있는 [대행사] 몰아보기 이용권 받으러 가기\nhttps://jtbc.co.kr/pay/discount\n\n\n\n\n\n매주 최신영화와 드라마를 재밌고 빠르게 소개해드립니다! \n비지니스 문의 moviebooster@naver.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NpGEXJODAyQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NpGEXJODAyQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NpGEXJODAyQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NpGEXJODAyQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NpGEXJODAyQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "카랑Karang",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-02T06:02:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rFCo1894aLa-8TA08XZBnIIWNao",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "N3uo1JeimdQ"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-28T02:02:10Z",
+        "channelId": "UC0Urb8B5andfbxzHOtQy6rA",
+        "title": "1% 능력자를 2년제 전문대 출신이라고 무시하던 대기업 사원들의 최후...",
+        "description": "#드라마 #몰아보기 #리뷰 #윤아 \n\n✔드라마 이어보기 https://tv.jtbc.co.kr/replay/pr10011590/pm10067354/ep20205079/view\n✔해당 콘텐트는 모든 권리가 해결되었습니다",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/N3uo1JeimdQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/N3uo1JeimdQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/N3uo1JeimdQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/N3uo1JeimdQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/N3uo1JeimdQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "리뷰 봐야지",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-28T02:02:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SN1jqXxZwNgJXemAXcc3-nmxqVM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jnhxfiY5mZ4"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-08T09:25:49Z",
+        "channelId": "UCj7tB0mu6Ja9AUCBX2XKelg",
+        "title": "대한민국을 발칵 뒤집어놨던 끔찍한 사건을 소재로 만든 인생 힐링 드라마.. 무조건 보세요",
+        "description": "문의 및 컨택트 ddingzal@daum.net\n인스타그램  https://www.instagram.com/ddingzal/\n멤버쉽 가입 https://bit.ly/34TUeqV\n여러분들의 소중한 후원으로 더 좋은 컨텐츠를 만드는데 힘쓰겠습니다\n\n영상출처 -  '그냥 사랑하는 사이 (2017)' 1-6화\n*JTBC와 저작권 협의 후 제작된 영상입니다\n\n#이준호 #원진아 #그냥사랑하는사이",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jnhxfiY5mZ4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jnhxfiY5mZ4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jnhxfiY5mZ4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jnhxfiY5mZ4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jnhxfiY5mZ4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "띵잘 ddingzal",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-08T09:25:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "W1fSDocrqWqGEBCNpoE-2GFSXz8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gXgJmDNYX6Y"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-14T06:43:15Z",
+        "channelId": "UCxn_EHVOJnrEJBZY2p3E6Sg",
+        "title": "어린 나이에 청소부 한다고 개무시 했는데 알고 보니 건설 대기업 AG그룹 차기 후계자 짝사랑녀면 벌어지는 핵꿀잼 사이다 참교육 드라마 《일단 뜨겁게 청소하라 1-6회 몰아보기》",
+        "description": "본 영상은 JTBC와 저작권 협의하에 올라가는 영상입니다.\n\n안녕하세요^^\n채널 어바웃타임 입니다.\n오늘 소개해드릴 드라마는 일단 뜨겁게 청소하라 입니다.\n\n비즈니스 문의: serendipityabout1@gmail.com\n\n#일단뜨겁게청소하라 #JTBC #Netflix #김유정 #윤균상 #웹툰 #드라마 #몰아보기",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gXgJmDNYX6Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gXgJmDNYX6Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gXgJmDNYX6Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gXgJmDNYX6Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gXgJmDNYX6Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "어바웃타임",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-14T06:43:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3TsjvfQ_nBpKHfbyHA0VX-69aBo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fZuoGK9gedw"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-08T16:48:05Z",
+        "channelId": "UCQoxM_ZqZYhx8uwQ-ZRhEnQ",
+        "title": "와...🔥네이버 평점 9.24🔥로 웃음과 감동을 한 번에 느낄 수 있는 역대급 드라마 장르 영화 \"1위\" ≪구르는 수레바퀴≫ 33분 몰아보기!!!",
+        "description": "#영화리뷰 #결말포함 #구르는수레바퀴 #몰아보기 #시간순삭 #드라마 \n\n※ 본 영상의 저작권 허가를 받은 자발적 홍보 영상입니다.\n\n▶ 문의하기 : tlstkdgus1108@gmail.com\n▶ 구독하기 : https://bit.ly/3e3xdut\n\n#영화리뷰 #결말포함 #구르는수레바퀴 #몰아보기 #시간순삭 #드라마 \n \n🎬 영화 보러가기 :  https://www.youtube.com/watch?v=qUrsSbh0s3k\n\n🎬 영화 정보\n제목 :  구르는 수레바퀴\n개봉 :  2020\n감독 :  문정윤\n출연 :  김명곤, 이영석, 김준배, 홍희용, 정준영, 송경원...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fZuoGK9gedw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fZuoGK9gedw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fZuoGK9gedw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fZuoGK9gedw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fZuoGK9gedw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "씨네마유",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-08T16:48:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4pkrr8W4TIrJzxHl0W4gcfFaP_g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nazVYt0BW3k"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-02T20:07:50Z",
+        "channelId": "UCAAvO0ehWox1bbym3rXKBZw",
+        "title": "김어준의 겸손은힘들다 뉴스공장 2023년 7월 3일 월요일 [노량진수산시장 상인, 정세현, 신장식, 양지열, 박시동, 우상호, 박시영, 이은영, 알파고, 폴 카버, 쥰키]",
+        "description": "#김어준 #겸손은힘들다 #뉴스공장\n월- 금 아침 7시 5분 ~ 9시\n\n겸손공장 구독하기 ▷ https://www.youtube.com/channel/UCAAvO0ehWox1bbym3rXKBZw?\n인터뷰 전문과 방송내용 확인: https://humblefactory.co.kr\n\n00:00:00 겸손pick 하이라이트\n00:10:30 김어준생각\n00:12:06 겸손브리핑\n00:21:27 노량진수산시장 상인(익명)\n00:31:16 정세현 전 통일부 장관\n00:47:31 양지열, 신장식\n01:05:35 저스트텐밀리[박시동]\n01:14:55 황야의 우나이퍼[우상호]\n01:32:20 덩곱매치[박시영, 이은영]\n01:49:37 동네사람들[알파고 시나씨, 폴 카버, 쥰키]\n\n\n◎ [겸손브리핑]\n▷ 류밀희 / 기자\n\n[인터뷰 제1공장] - 전화 연결\n- 국민의힘 의원들의 ‘바닷물 먹방’.. 노량진 상인들의 반응은?\n- 수조 속 바닷물.. 정말 오염수보다 농도가 진할까?\n- 수산시장 상인.. 오염수 “막을 수 없다면 확실한 데이터를 달라”\n▷ 익명 / 노량진수산시장 상인\n\n[인터뷰 제2공장] \n- 북한, 각별했던 현대그룹 현정은 방북도 불허..왜? \n- 김영호 통일부 장관 후보자, 극우 발언 ·뉴라이트 논란 \n- 통일부 장관 교체..남북 관계 영향과 대북정책 출구는?\n▷ 정세현 / 전 통일부 장관 \n\n[인터뷰 제3공장]\n- 윤석열 장모 최은순과 정대택 사건..새롭게 드러난 사실은?   \n- 윤모 판사 부인, 최은순 승소 이후 최씨 최측근과 땅 투자 \n- 판사 \"판결과 부동산 투자는 무관\"…김씨 \"판사 모임에 초대\"\n▷ 양지열 / 변호사, 대안뉴스 진행자  \n▷ 신장식 / 변호사, MBC 뉴스하이킥 진행자\n\n[황야의 우나이퍼] \n- 윤 ‘반국가 세력’ 발언 이어 첫 개각도 ‘극우 논란’\n- 윤 ‘170석’ 언급 속 ‘최경환-이준석’ 만남 의미는?\n- 여 횟집 먹방에 수조물 시음쇼까지…”방사능 책임질 것”\n- “심플하게 답변” 감사원장에 쪽지, 유병호 안하무인? \n▷ 우상호 / 더불어민주당 의원\n\n[덩곱매치] \n- 후쿠시마 오염수 방류 논란이 지지율에 미친 영향은?\n- 국민의힘 ‘횟집 회식 캠페인’에 대한 국민 반응은?\n- ’수능 킬러문항’과 관련된 국민 평가는?\n- 총선을 10개월 앞둔 지금.. 양당에 대한 지지도는?\n▷ 박시영 / 주식회사박시영 대표\n▷ 이은영 / 휴먼앤데이터 소장\n\n[동네사람들]\n- ‘바그너그룹 반란’ 후속 보도 체크\n- ‘바그너 반란’에 대한 친러·반러·중립 국가들의 속내는?\n- 中, 러시아 사태에 대한 속마음은?\n- 푸틴의 ‘핵’ 버튼 걱정하는 영국\n▷ 알파고 시나씨 / 튀르키예\n▷ 폴 카버 / 영국\n▷ 쥰키 / 중국\n\n겸손멤버십: https://www.ihappynanum.com/Nanum/B/3FGCZ0V0KK\n인터뷰 전문과 방송내용 확인: https://humblefactory.co.kr\n제보와 문의 : newsfactory2023@gmail.com\n겸손공장 인스타그램  : https://www.instagram.com/gyeomson_is_nothing/\n \n\n영상의 무단사용을 금지합니다.\n인용 보도 시 [김어준의 겸손은힘들다 뉴스공장] 출처를 표기해주세요.\n겸손 멤버십 관련 문의 : 02-6953-1904\n공식 트위터 \nhttps://twitter.com/Gyeomsonfactory\n\n여론조사꽃 조사개요\n\nARS 조사개요\n모집단: 전국 만18세 이상 남녀\n표본크기: 1,008명\n표본오차: ±3.1 % 포인트 / 95% 신뢰수준\n응답율: 2.1% (총 통화시도 48,758명)\n조사기간: 2023년 6월 30일 ~ 7월 1일\n조사방법: 무선(100%) RDD 활용 ARS조사\n\nCATI 조사개요\n모집단: 전국 만18세 이상 남녀\n표본크기: 1,017명\n표본오차: ±3.1 % 포인트 / 95% 신뢰수준\n응답율: 16.7 % (총 통화시도 6,107명)\n조사기간: 2023년 6월 30일 ~ 7월 1일\n조사방법: 통신사제공 무선가상번호 활용 전화면접조사(CATI)\n\n총선특집 CATI 조사개요\n모집단: 전국 만18세 이상 남녀\n표본크기: 1,007명\n표본오차: ±3.1 % 포인트 / 95% 신뢰수준\n응답율: 15.5 % (총 통화시도 6,513명)\n조사기간: 2023년 6월 28일 ~ 6월 29일\n조사방법: 통신사제공 무선가상번호 활용 전화면접조사(CATI)\n\n\n자세한 내용은 중앙선거여론조사심의위원회 홈페이지 참조\n\n\n\n연출 : 주재훈 조상희 백민수 김민지\n구성 : 도미라 박지윤 김강리 임현 문유진\n\n\n#류밀희 #뉴스공장실시간  #newsfactory #윤일상 #박시동 #여론조사꽃 #시사 #경제 #사회#겸손공장  #실시간 #뉴스 #텐밀리 #윤석열 #국민의힘 #더불어민주당 #장도리극장 #딴지마켓 #장도리 #성대모사 #만평 #에메랄드캐슬  #금요음악회 #변상욱 #더살롱  #킬러문항 #전우용 #류근 #강유정 #겸 #오염수 #후쿠시마 #동네사람들 #일리야 #알파고 #정새미 #정세현 #우상호 #류성걸 #김영선 #창원 #국민의힘 #노량진 #수산시장 #폴카버 #쥰키 #중국 #덩곱매치 #이은영 #박시영 #여론조사 #바그너 #민스크 #경제뉴스 #신장식 #mbc #뉴스하이킥 #라디오 #양지열 #대안뉴스 #최은순 #노컷뉴스 #어류",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nazVYt0BW3k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nazVYt0BW3k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nazVYt0BW3k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nazVYt0BW3k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nazVYt0BW3k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "김어준의 겸손은힘들다 뉴스공장",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-02T20:07:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_L9Jf5vXSxiXJjQAZxAKYMKuxfg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TvEG30BfAYY"
+      },
+      "snippet": {
+        "publishedAt": "2022-03-24T08:16:11Z",
+        "channelId": "UCBKdF7ySgSJEaCCNdeFCSxA",
+        "title": "\"미친 듯이 설레게 했던\" 김다미 최우식 주연의 로맨스 드라마 《그 해 우리는》 2시간 몰아보기",
+        "description": "#김다미 #최우식 #드라마\n\n오늘 소개해드린 드라마는 \"그해 우리는\" 1~16화입니다 \n구독과 좋아요는 다음 영상 제작에 큰 힘이 됩니다!\n\n* 넷플릭스의 업로드 허가를 받은 컨텐츠입니다\n\n비즈니스 메일 및 드라마 무료 리뷰 💌\n문의 환영 : forhugh@naver.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TvEG30BfAYY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TvEG30BfAYY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TvEG30BfAYY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TvEG30BfAYY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TvEG30BfAYY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "휴휴무비",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-03-24T08:16:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JHX4NOF9_uG-NaEfOMvIjwdrh6E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "M5mXascmvIs"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-30T01:07:41Z",
+        "channelId": "UCkbJc8jMcTXwhtmN5VMwfXg",
+        "title": "[메이킹] 이것이 바로 프로들의 현장이다! 찰떡 호흡 동주와 눈알 연기(?) 마스터 강산👀│기적의 형제👨🏻‍🤝‍👨🏻",
+        "description": "이것이 프로의 현장이다\n지시대로 척척해내는 배우들과\n그런 배우들 칭찬 감옥 가둬버리는 감독님😁😁\n\n동주가 하는 왓츠인강산백\n평범한 물건들 사이에 200억짜리 돌멩이(???)\n\n화기애애한 현장에서 만들어지는\n갓벽한 드라마🔥 지금부터 시작합니다\n\nJTBC 수목드라마 ＜기적의 형제＞\n매주 수, 목 밤 10시 30분 본방사수👨🏻‍🤝‍👨🏻⚡\n\n#기적의형제 #정우 #배현성 #박유림 #오만석 #이기우",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/M5mXascmvIs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/M5mXascmvIs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/M5mXascmvIs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/M5mXascmvIs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/M5mXascmvIs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JTBC Drama",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-30T01:07:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "A_zeYr6mQ9ufv0YTVmZr-UcrbVY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1t5StajL2ro"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-30T09:05:33Z",
+        "channelId": "UCoSFrYUyeA0kocjhiUDG9Gg",
+        "title": "[킹더랜드 5회 예고] 22년 전 비밀 공개! 모두를 놀래킨 천사랑 충격 정체!",
+        "description": "천사랑이 숨긴 충격 비밀에 대해 얘기해볼게요.\n\n\n#킹더랜드 \n#킹더랜드4회\n#킹더랜드5회",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1t5StajL2ro/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1t5StajL2ro/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1t5StajL2ro/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1t5StajL2ro/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1t5StajL2ro/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "힐링 드라마",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-30T09:05:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dmb3FFEtP5nlX15mMS1dnOXBp5Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "svHpsT1r9as"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-18T07:51:44Z",
+        "channelId": "UCD46H9Pm3nLqCj7vv3pQkPA",
+        "title": "[100분토론]  천하람 & 이탄희 토론하면 좋은 친구",
+        "description": "2023년 4월 18일 (화) 밤  11시 30분 \n\n유튜브 동시중계로 여러분을 찾아갑니다.\n실시간 댓글로 많은 의견 남겨주세요.\n100분토론은 여러분의 참여를 기다리고 있습니다.\n\n출연패널\n천하람 / 국민의힘 순천갑 당협위원장\n이탄희 / 더불어민주당 의원\n\n#100분토론 #백분토론 #정준희 \n#천하람 #정치개혁 #당협위원장 #국민의힘\n#이탄희 #더불어민주당 #선거제도\n#1000회 #특집 #토론하면좋은친구2",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/svHpsT1r9as/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/svHpsT1r9as/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/svHpsT1r9as/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/svHpsT1r9as/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/svHpsT1r9as/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MBC 100분토론",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-18T07:51:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2_LPrHRxvt1_IaAZB73VP43gJIk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uJ8mP0SnAn8"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-30T10:22:22Z",
+        "channelId": "UCFL1sCAksD6_7JIZwwHcwjQ",
+        "title": "[R U Next? 1회 다시보기] 22명의 연습생 첫 등장!｜R U Next?｜JTBC 230630 방송",
+        "description": "[R U Next? 1회 다시보기] 22명의 연습생 첫 등장!｜R U Next?｜JTBC 230630 방송\n#RUNext #RUNext_1회 #RUNext_FULLVOD\n\n매주 금요일 저녁 8시 50분 방송!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uJ8mP0SnAn8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uJ8mP0SnAn8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uJ8mP0SnAn8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uJ8mP0SnAn8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uJ8mP0SnAn8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JTBC Entertainment",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-30T10:22:22Z"
+      }
+    }
+  ]
+}
