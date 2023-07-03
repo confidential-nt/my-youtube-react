@@ -24,7 +24,7 @@ export default function Videos() {
 
   return (
     videos && (
-      <ul>
+      <ul className="grid grid-cols-1 lg:grid-cols-5 md:grid-cols-3 sm:grid-cols-2 gap-x-2 gap-y-2">
         {videos.items.map((video) => {
           return (
             <VideoCard
