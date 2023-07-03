@@ -1,9 +1,10 @@
-import React, { useEffect, useState } from "react";
+import React from "react";
+import { Link } from "react-router-dom";
 import relativeTimeFormat from "../../utility/relative_time_format";
-import fetchData from "../../utility/fetch_data";
+import useChannel from "../../hook/use_channel";
 
 export default function VideoCard({ video, videoId }) {
-  const [channel, setChannel] = useState({});
+  const [channel] = useChannel();
 
   const {
     snippet: {
@@ -11,23 +12,17 @@ export default function VideoCard({ video, videoId }) {
       channelTitle,
       publishedAt,
       thumbnails: {
-        default: { url },
+        default: { url: durl },
       },
     },
   } = video;
 
-  useEffect(() => {
-    fetchData("/data/channel_info.json").then((json) =>
-      setChannel(json.items[0])
-    );
-  }, []);
-
   return (
-    channel.id && (
+    channel && (
       <li id={videoId}>
-        <a href={`/videos/watch/${videoId}`}>
-          <img src={url} alt={title} />
-        </a>
+        <Link to={`/videos/watch/${videoId}`}>
+          <img src={durl} alt={title} />
+        </Link>
         <h2>{title}</h2>
         <h4>{channelTitle}</h4>
         <img src={channel.snippet.thumbnails.default.url} alt={channelTitle} />
