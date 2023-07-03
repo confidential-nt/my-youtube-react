@@ -40,7 +40,7 @@ export default function VideoDetail() {
             <VideoCard
               video={video}
               key={getVideoId(video)}
-              id={getVideoId(video)}
+              videoId={getVideoId(video)}
             />
           ))}
         </ul>
