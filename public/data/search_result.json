@@ -1,6 +1,6 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "MyW5DFZ9XGm4Ls4sieNfMR3AOa4",
+  "etag": "zVapZw5UOvVGFZYe3wiBNe7XEJg",
   "nextPageToken": "CDIQAA",
   "regionCode": "KR",
   "pageInfo": {
@@ -8,6 +8,40 @@
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "w9JmLg2HqJxVriMACUZcZZGUXdQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2g3voeqIJpM"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-29T12:20:14Z",
+        "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+        "title": "[2022 MAMA] KARA - Lupin + STEP + Mister | Mnet 221129 방송",
+        "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f 'KARA IS BACK' Lupin + STEP + Mister by KARA in 2022 MAMA ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2g3voeqIJpM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2g3voeqIJpM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2g3voeqIJpM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mnet K-POP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-29T12:20:14Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "UhSM8pZ-3Me82mxVoDo1SuZ0Vbk",
@@ -112,40 +146,6 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "w9JmLg2HqJxVriMACUZcZZGUXdQ",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "2g3voeqIJpM"
-      },
-      "snippet": {
-        "publishedAt": "2022-11-29T12:20:14Z",
-        "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
-        "title": "[2022 MAMA] KARA - Lupin + STEP + Mister | Mnet 221129 방송",
-        "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f 'KARA IS BACK' Lupin + STEP + Mister by KARA in 2022 MAMA ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/2g3voeqIJpM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/2g3voeqIJpM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/2g3voeqIJpM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Mnet K-POP",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-11-29T12:20:14Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
       "etag": "YYz4j5QbUh24G5MA48kx30MvvHU",
       "id": {
         "kind": "youtube#video",
@@ -176,210 +176,6 @@
         "channelTitle": "1theK (원더케이)",
         "liveBroadcastContent": "none",
         "publishTime": "2014-08-18T03:00:01Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "Uu6vr-6PGsUibCD69bdobnxKbhw",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "s2EQm6WPMHs"
-      },
-      "snippet": {
-        "publishedAt": "2011-03-07T07:12:49Z",
-        "channelId": "UCDXkn3VPpnQzWN6Xx3OgVQQ",
-        "title": "KARA - ミスター M/V",
-        "description": "KARA Japan 1st Digital single 'ミスター' 'ミスター' Music Video #카라 #カラ #KARA #미스터 #ミスター #Mr #박규리 #한승연 ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/s2EQm6WPMHs/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/s2EQm6WPMHs/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/s2EQm6WPMHs/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "DSPmedia",
-        "liveBroadcastContent": "none",
-        "publishTime": "2011-03-07T07:12:49Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "WOOxyLPeDmsLn6lx55XOqvQ83T8",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "is-rjsfoYtY"
-      },
-      "snippet": {
-        "publishedAt": "2022-12-03T07:56:15Z",
-        "channelId": "UCe52oeb7Xv_KaJsEzcKXJJg",
-        "title": "KARA(카라) - WHEN I MOVE | Show! MusicCore | MBC221203방송",
-        "description": "KARA(카라) - WHEN I MOVE | Show! MusicCore | MBC221203방송 #KARA #WHENIMOVE #MBCKPOP iMBC https://program.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/is-rjsfoYtY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/is-rjsfoYtY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/is-rjsfoYtY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "MBCkpop",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-12-03T07:56:15Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "G4VENpYbNXjFvNY4tBFzxMzsGDc",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "pk6u-XepUFs"
-      },
-      "snippet": {
-        "publishedAt": "2014-10-16T05:27:38Z",
-        "channelId": "UC1cWTErb7vw_UmmuB0dYgsQ",
-        "title": "【TVPP】KARA - Mister, 카라 - 미스터 @ Show Music Core Live",
-        "description": "【TVPP】KARA - Mister, 카라 - 미스터 @ Show Music Core Live KARA # 046 : KARA had 'Mister' stage at Show! Music Core ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/pk6u-XepUFs/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/pk6u-XepUFs/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/pk6u-XepUFs/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "TV-People",
-        "liveBroadcastContent": "none",
-        "publishTime": "2014-10-16T05:27:38Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "w1JoWnty5gBbW0NmFYNz8sLWWTI",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "ZrvOPLsNy6E"
-      },
-      "snippet": {
-        "publishedAt": "2023-06-27T08:43:56Z",
-        "channelId": "UCIUjfXGZ7eMnk_xaxrG3BUw",
-        "title": "KARA KARA meme | #y3llowcacklefc",
-        "description": "fake collab with @Y3LLOWx ! i had to export 7 alight motion files for this because apparently my device is not strong enough :/",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/ZrvOPLsNy6E/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/ZrvOPLsNy6E/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/ZrvOPLsNy6E/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Aurora Ch. 奥罗拉",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-06-27T08:43:56Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "MQ8LSQK8wcUbhQaaHS1EiSg7rFg",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "j7TYiyEhxdI"
-      },
-      "snippet": {
-        "publishedAt": "2011-03-07T06:46:33Z",
-        "channelId": "UCDXkn3VPpnQzWN6Xx3OgVQQ",
-        "title": "KARA - 루팡(Lupin) M/V",
-        "description": "카라(KARA) 3rd mini album '루팡(Lupin)' \"루팡(Lupin)\" Music Video #카라 #KARA #루팡 #Lupin #박규리 #한승연 #구하라 #니콜 ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/j7TYiyEhxdI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/j7TYiyEhxdI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/j7TYiyEhxdI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "DSPmedia",
-        "liveBroadcastContent": "none",
-        "publishTime": "2011-03-07T06:46:33Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "uv_4AUBpmggCoLwKlSJ_heCMsMo",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "g0XpNvLWimo"
-      },
-      "snippet": {
-        "publishedAt": "2012-08-22T04:21:50Z",
-        "channelId": "UCbxYZzVHUrv-AhR6KZzGo0A",
-        "title": "KARA(카라) - PANDORA(판도라) Music Video",
-        "description": "KARA 5th Mini Album 'PANDORA(판도라)' Music Video.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/g0XpNvLWimo/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/g0XpNvLWimo/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/g0XpNvLWimo/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "KARA Official",
-        "liveBroadcastContent": "none",
-        "publishTime": "2012-08-22T04:21:50Z"
       }
     },
     {
@@ -418,104 +214,206 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "FGdNEzk-1XebmeAfo_ep8GdiyTQ",
+      "etag": "Uu6vr-6PGsUibCD69bdobnxKbhw",
       "id": {
         "kind": "youtube#video",
-        "videoId": "R_AQ7AkVzpM"
+        "videoId": "s2EQm6WPMHs"
       },
       "snippet": {
-        "publishedAt": "2011-03-07T06:13:36Z",
+        "publishedAt": "2011-03-07T07:12:49Z",
         "channelId": "UCDXkn3VPpnQzWN6Xx3OgVQQ",
-        "title": "KARA - Honey M/V",
-        "description": "카라(KARA) 2nd mini album special edition 'Honey' \"Honey\" Music Video #카라 #KARA #하니 #Honey #박규리 #한승연 #구하라 ...",
+        "title": "KARA - ミスター M/V",
+        "description": "KARA Japan 1st Digital single 'ミスター' 'ミスター' Music Video #카라 #カラ #KARA #미스터 #ミスター #Mr #박규리 #한승연 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/R_AQ7AkVzpM/default.jpg",
+            "url": "https://i.ytimg.com/vi/s2EQm6WPMHs/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/R_AQ7AkVzpM/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/s2EQm6WPMHs/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/R_AQ7AkVzpM/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/s2EQm6WPMHs/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
         "channelTitle": "DSPmedia",
         "liveBroadcastContent": "none",
-        "publishTime": "2011-03-07T06:13:36Z"
+        "publishTime": "2011-03-07T07:12:49Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "2tth-09DgCz31IVZh-AYIJBYjoc",
+      "etag": "MQ8LSQK8wcUbhQaaHS1EiSg7rFg",
       "id": {
         "kind": "youtube#video",
-        "videoId": "_tZzcovPDNM"
+        "videoId": "j7TYiyEhxdI"
       },
       "snippet": {
-        "publishedAt": "2022-12-03T09:00:25Z",
-        "channelId": "UC3SyT4_WLHzN7JmHQwKQZww",
-        "title": "[아이유의 팔레트🎨] 여왕들의 귀환 &quot;KARA IS BACK&quot; (With 카라) Ep.16",
-        "description": "[IU's Palette] Return of the Queens \"KARA IS BACK\" (With KARA) Ep.16 [아이유의 팔레트] 여왕들의 귀환 \"KARA IS BACK\" (With ...",
+        "publishedAt": "2011-03-07T06:46:33Z",
+        "channelId": "UCDXkn3VPpnQzWN6Xx3OgVQQ",
+        "title": "KARA - 루팡(Lupin) M/V",
+        "description": "카라(KARA) 3rd mini album '루팡(Lupin)' \"루팡(Lupin)\" Music Video #카라 #KARA #루팡 #Lupin #박규리 #한승연 #구하라 #니콜 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/_tZzcovPDNM/default.jpg",
+            "url": "https://i.ytimg.com/vi/j7TYiyEhxdI/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/_tZzcovPDNM/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/j7TYiyEhxdI/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/_tZzcovPDNM/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/j7TYiyEhxdI/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "이지금 [IU Official]",
+        "channelTitle": "DSPmedia",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-12-03T09:00:25Z"
+        "publishTime": "2011-03-07T06:46:33Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "fUppVNYzNF1tFCwDcXYYbWfK9YU",
+      "etag": "Y46EPgIudHgOCkodERZ2s89rj_I",
       "id": {
         "kind": "youtube#video",
-        "videoId": "_vHw17-zFa4"
+        "videoId": "simkm93IkJo"
       },
       "snippet": {
-        "publishedAt": "2013-09-02T03:00:16Z",
-        "channelId": "UCbxYZzVHUrv-AhR6KZzGo0A",
-        "title": "KARA(카라) - 숙녀가 못 돼 (Damaged Lady) M/V",
-        "description": "KARA 4th Album Full Bloom New Title Song '숙녀가 못 돼(Damaged Lady)' M/V *KARA Official Facebook ...",
+        "publishedAt": "2023-06-29T10:33:59Z",
+        "channelId": "UCy4Gqp5mPpNC2mul-HzuO-w",
+        "title": "2Mview🙏Ghunghat band Kara De O Piya#subscribe #ajayhoodasongs#trendingstatu#trendingshorts#haryanvi#",
+        "description": "ajayhoodasongs#haryanvi#new#viraldance#trendingshorts#viral#",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/_vHw17-zFa4/default.jpg",
+            "url": "https://i.ytimg.com/vi/simkm93IkJo/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/_vHw17-zFa4/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/simkm93IkJo/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/_vHw17-zFa4/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/simkm93IkJo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "RY YouTube channel",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-29T10:33:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WOOxyLPeDmsLn6lx55XOqvQ83T8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "is-rjsfoYtY"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-03T07:56:15Z",
+        "channelId": "UCe52oeb7Xv_KaJsEzcKXJJg",
+        "title": "KARA(카라) - WHEN I MOVE | Show! MusicCore | MBC221203방송",
+        "description": "KARA(카라) - WHEN I MOVE | Show! MusicCore | MBC221203방송 #KARA #WHENIMOVE #MBCKPOP iMBC https://program.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/is-rjsfoYtY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/is-rjsfoYtY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/is-rjsfoYtY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MBCkpop",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-03T07:56:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tYrTptdd89v8LsTplkwMVJdvcpM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pHtDaScwNjU"
+      },
+      "snippet": {
+        "publishedAt": "2011-03-08T05:55:02Z",
+        "channelId": "UCbxYZzVHUrv-AhR6KZzGo0A",
+        "title": "KARA - ミスター M/V",
+        "description": "KARA Japan 1st Digital single 'ミスター' 'ミスター' Music Video #카라 #カラ #KARA #미스터 #ミスター #Mr #박규리 #한승연 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pHtDaScwNjU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pHtDaScwNjU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pHtDaScwNjU/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
         "channelTitle": "KARA Official",
         "liveBroadcastContent": "none",
-        "publishTime": "2013-09-02T03:00:16Z"
+        "publishTime": "2011-03-08T05:55:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uv_4AUBpmggCoLwKlSJ_heCMsMo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "g0XpNvLWimo"
+      },
+      "snippet": {
+        "publishedAt": "2012-08-22T04:21:50Z",
+        "channelId": "UCbxYZzVHUrv-AhR6KZzGo0A",
+        "title": "KARA(카라) - PANDORA(판도라) Music Video",
+        "description": "KARA 5th Mini Album 'PANDORA(판도라)' Music Video.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/g0XpNvLWimo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/g0XpNvLWimo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/g0XpNvLWimo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KARA Official",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-08-22T04:21:50Z"
       }
     },
     {
@@ -554,64 +452,36 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "PIwMQmqnhTzr5iGmytoeD88jmq0",
-      "id": {
-        "kind": "youtube#channel",
-        "channelId": "UC4ijq8Cg-8zQKx8OH12dUSw"
-      },
-      "snippet": {
-        "publishedAt": "2015-12-08T23:23:36Z",
-        "channelId": "UC4ijq8Cg-8zQKx8OH12dUSw",
-        "title": "Kara and Nate",
-        "description": "Hey, y'all! We are a husband and wife from Nashville, Tennessee. We started our YouTube channel on a whim when we decided ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://yt3.ggpht.com/ytc/AGIKgqM6rEswtp0bMfL79PZod6PTw9K6wbHPj8r2hH-ywA=s88-c-k-c0xffffffff-no-rj-mo"
-          },
-          "medium": {
-            "url": "https://yt3.ggpht.com/ytc/AGIKgqM6rEswtp0bMfL79PZod6PTw9K6wbHPj8r2hH-ywA=s240-c-k-c0xffffffff-no-rj-mo"
-          },
-          "high": {
-            "url": "https://yt3.ggpht.com/ytc/AGIKgqM6rEswtp0bMfL79PZod6PTw9K6wbHPj8r2hH-ywA=s800-c-k-c0xffffffff-no-rj-mo"
-          }
-        },
-        "channelTitle": "Kara and Nate",
-        "liveBroadcastContent": "upcoming",
-        "publishTime": "2015-12-08T23:23:36Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "t9PZe8584U8B-FXM2IuJ30-YQpc",
+      "etag": "fUppVNYzNF1tFCwDcXYYbWfK9YU",
       "id": {
         "kind": "youtube#video",
-        "videoId": "vduA06d5ujM"
+        "videoId": "_vHw17-zFa4"
       },
       "snippet": {
-        "publishedAt": "2012-09-07T22:42:46Z",
-        "channelId": "UCS6jmPd-ZHVMHGxMvscat7g",
-        "title": "ＫＡＲＡ - Wanna",
-        "description": "Best of Kara: https://goo.gl/Gd96qu Subscribe here: https://goo.gl/mzEZZU Music video by ＫＡＲＡ performing Wanna. (C) 2010 ...",
+        "publishedAt": "2013-09-02T03:00:16Z",
+        "channelId": "UCbxYZzVHUrv-AhR6KZzGo0A",
+        "title": "KARA(카라) - 숙녀가 못 돼 (Damaged Lady) M/V",
+        "description": "KARA 4th Album Full Bloom New Title Song '숙녀가 못 돼(Damaged Lady)' M/V *KARA Official Facebook ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/vduA06d5ujM/default.jpg",
+            "url": "https://i.ytimg.com/vi/_vHw17-zFa4/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/vduA06d5ujM/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/_vHw17-zFa4/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/vduA06d5ujM/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/_vHw17-zFa4/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "KaraVEVO",
+        "channelTitle": "KARA Official",
         "liveBroadcastContent": "none",
-        "publishTime": "2012-09-07T22:42:46Z"
+        "publishTime": "2013-09-02T03:00:16Z"
       }
     },
     {
@@ -684,404 +554,172 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "tYrTptdd89v8LsTplkwMVJdvcpM",
+      "etag": "FGdNEzk-1XebmeAfo_ep8GdiyTQ",
       "id": {
         "kind": "youtube#video",
-        "videoId": "pHtDaScwNjU"
+        "videoId": "R_AQ7AkVzpM"
       },
       "snippet": {
-        "publishedAt": "2011-03-08T05:55:02Z",
-        "channelId": "UCbxYZzVHUrv-AhR6KZzGo0A",
-        "title": "KARA - ミスター M/V",
-        "description": "KARA Japan 1st Digital single 'ミスター' 'ミスター' Music Video #카라 #カラ #KARA #미스터 #ミスター #Mr #박규리 #한승연 ...",
+        "publishedAt": "2011-03-07T06:13:36Z",
+        "channelId": "UCDXkn3VPpnQzWN6Xx3OgVQQ",
+        "title": "KARA - Honey M/V",
+        "description": "카라(KARA) 2nd mini album special edition 'Honey' \"Honey\" Music Video #카라 #KARA #하니 #Honey #박규리 #한승연 #구하라 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/pHtDaScwNjU/default.jpg",
+            "url": "https://i.ytimg.com/vi/R_AQ7AkVzpM/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/pHtDaScwNjU/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/R_AQ7AkVzpM/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/pHtDaScwNjU/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/R_AQ7AkVzpM/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "KARA Official",
+        "channelTitle": "DSPmedia",
         "liveBroadcastContent": "none",
-        "publishTime": "2011-03-08T05:55:02Z"
+        "publishTime": "2011-03-07T06:13:36Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "4yUYPv957C74CdONjcIRDTPfi6A",
+      "etag": "mB8N6jU20pFBCsxXU-6AJwcbu3g",
       "id": {
         "kind": "youtube#video",
-        "videoId": "qppKzj-syCA"
+        "videoId": "kmBtUi7nNJ0"
       },
       "snippet": {
-        "publishedAt": "2022-07-01T00:00:15Z",
-        "channelId": "UCusW_eHZw_tWLVRv0fzxj_g",
-        "title": "카라(KARA) 노래 모음 34곡, 보고듣는 소울뮤직TV",
-        "description": "카라(KARA) 노래 모음 34곡, 보고듣는 소울뮤직TV ======================================== 신나는 트로트 댄스 파티, ...",
+        "publishedAt": "2019-05-22T20:00:03Z",
+        "channelId": "UCweOkPb1wVVH0Q0Tlj4a5Pw",
+        "title": "[MV] KARA(카라) _ Wanna",
+        "description": "[MV] KARA(카라) _ Wanna [공지] 1theK YouTube는 MV를 유통하는 공식 채널로, 해당 영상의 권리가 1theK로 이관됨에 따라 재 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/qppKzj-syCA/default.jpg",
+            "url": "https://i.ytimg.com/vi/kmBtUi7nNJ0/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/qppKzj-syCA/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/kmBtUi7nNJ0/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/qppKzj-syCA/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/kmBtUi7nNJ0/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "소울뮤직TV",
+        "channelTitle": "1theK (원더케이)",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-07-01T00:00:15Z"
+        "publishTime": "2019-05-22T20:00:03Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "IreMgqF2pnqmDmlXCdmOaGa-R94",
+      "etag": "2tth-09DgCz31IVZh-AYIJBYjoc",
       "id": {
         "kind": "youtube#video",
-        "videoId": "8T75OH5k15g"
+        "videoId": "_tZzcovPDNM"
       },
       "snippet": {
-        "publishedAt": "2023-03-04T22:29:52Z",
-        "channelId": "UCbZvkG2uAgr6Oiva4FytscQ",
-        "title": "KARA、7年ぶり復活で「ミスター」披露！“ヒップダンス”で会場を魅了　『関西コレクション 2023S/S | KANSAI COLLECTION 2023S/S』",
-        "description": "韓国ガールズグループ・KARAが4日、京セラドーム大阪で行われた『関西コレクション 2023S/S | KANSAI COLLECTION ...",
+        "publishedAt": "2022-12-03T09:00:25Z",
+        "channelId": "UC3SyT4_WLHzN7JmHQwKQZww",
+        "title": "[아이유의 팔레트🎨] 여왕들의 귀환 &quot;KARA IS BACK&quot; (With 카라) Ep.16",
+        "description": "[IU's Palette] Return of the Queens \"KARA IS BACK\" (With KARA) Ep.16 [아이유의 팔레트] 여왕들의 귀환 \"KARA IS BACK\" (With ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/8T75OH5k15g/default.jpg",
+            "url": "https://i.ytimg.com/vi/_tZzcovPDNM/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/8T75OH5k15g/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/_tZzcovPDNM/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/8T75OH5k15g/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/_tZzcovPDNM/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "oricon",
+        "channelTitle": "이지금 [IU Official]",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-03-04T22:29:52Z"
+        "publishTime": "2022-12-03T09:00:25Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "mzzMsY2WGtmrY_m4aOKNk4SD9zI",
+      "etag": "t9PZe8584U8B-FXM2IuJ30-YQpc",
       "id": {
         "kind": "youtube#video",
-        "videoId": "cG1JFBpKilI"
+        "videoId": "vduA06d5ujM"
       },
       "snippet": {
-        "publishedAt": "2023-03-04T12:08:12Z",
-        "channelId": "UCN90xko8R5hpoB8mYkm5HKQ",
-        "title": "2023.03.04 Kansai Collection 2023 SS - 카라 KARA live stage",
-        "description": "2023.03.04 Kansai Collection 2023 SS - 카라 KARA live stage 0:24 WHEN I MOVE 5:36 STEP 8:59 Jet Coaster Love 14:49 Mr ...",
+        "publishedAt": "2012-09-07T22:42:46Z",
+        "channelId": "UCS6jmPd-ZHVMHGxMvscat7g",
+        "title": "ＫＡＲＡ - Wanna",
+        "description": "Best of Kara: https://goo.gl/Gd96qu Subscribe here: https://goo.gl/mzEZZU Music video by ＫＡＲＡ performing Wanna. (C) 2010 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/cG1JFBpKilI/default.jpg",
+            "url": "https://i.ytimg.com/vi/vduA06d5ujM/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/cG1JFBpKilI/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/vduA06d5ujM/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/cG1JFBpKilI/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/vduA06d5ujM/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "熱情的菠蘿",
+        "channelTitle": "KaraVEVO",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-03-04T12:08:12Z"
+        "publishTime": "2012-09-07T22:42:46Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "qlMm2D_JFzlTQqi49e4mKjgGMEE",
+      "etag": "G4VENpYbNXjFvNY4tBFzxMzsGDc",
       "id": {
         "kind": "youtube#video",
-        "videoId": "OBujLWIF1Eg"
+        "videoId": "pk6u-XepUFs"
       },
       "snippet": {
-        "publishedAt": "2023-06-24T13:07:13Z",
-        "channelId": "UCtgOYHijPXZetCCdFPcMD7w",
-        "title": "KARA KARA (CACKLE) My FIRST EVER FAKE COLLAB W- Y3LLOW #y3llowcacklefc",
-        "description": "",
+        "publishedAt": "2014-10-16T05:27:38Z",
+        "channelId": "UC1cWTErb7vw_UmmuB0dYgsQ",
+        "title": "【TVPP】KARA - Mister, 카라 - 미스터 @ Show Music Core Live",
+        "description": "【TVPP】KARA - Mister, 카라 - 미스터 @ Show Music Core Live KARA # 046 : KARA had 'Mister' stage at Show! Music Core ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/OBujLWIF1Eg/default.jpg",
+            "url": "https://i.ytimg.com/vi/pk6u-XepUFs/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/OBujLWIF1Eg/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/pk6u-XepUFs/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/OBujLWIF1Eg/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/pk6u-XepUFs/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Natasha🌸Art🌸",
+        "channelTitle": "TV-People",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-06-24T13:07:13Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "Ifiq_k6_wcpN4yPd8ewQXRqUZjQ",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "j-pF56-ZYkY"
-      },
-      "snippet": {
-        "publishedAt": "2012-03-08T01:26:51Z",
-        "channelId": "UC6dJUKUc-JNEmqAzRBil_zQ",
-        "title": "&quot;Kara&quot; by Quantic Dream",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/j-pF56-ZYkY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/j-pF56-ZYkY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/j-pF56-ZYkY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "sceablog",
-        "liveBroadcastContent": "none",
-        "publishTime": "2012-03-08T01:26:51Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "bBC7RalQmpxQy5Wi82vPoPebK34",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "ZLz7tyx3gtg"
-      },
-      "snippet": {
-        "publishedAt": "2023-06-23T02:15:56Z",
-        "channelId": "UC99wUL28XujvB_VAZENYwKQ",
-        "title": "⇢ ˗ˏˋ 🪷 KARA KARA (CACKLE) ✨ ࿐ྂ || TW || fake collab with @Y3LLOWx || #y3llowcacklefc ⋆ ˚｡⋆୨୧˚",
-        "description": "Now loading. . . ·········· ↺99% ᴄᴏᴍᴘʟᴇᴛᴇ! ˚ ༘♡ ·˚꒰welcome to the description꒱ ₊˚ˑ༄ DO NOT ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/ZLz7tyx3gtg/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/ZLz7tyx3gtg/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/ZLz7tyx3gtg/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "• APPL3 _ S4UCE •",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-06-23T02:15:56Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "mz5HvZhb5sskjGlRrmNo30bufPM",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "iAEvmGcVDGg"
-      },
-      "snippet": {
-        "publishedAt": "2023-06-24T02:00:17Z",
-        "channelId": "UCoA5o2yzsOIk7OPR1WTLRVw",
-        "title": "KARA KARA || #y3llowcacklefc || @Y3LLOWx || Fake collab || [✨]",
-        "description": "Sorry i forget to delete that CapCut thing hope you don't mind     Song : https://youtu.be/hL75gQUcu0A.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/iAEvmGcVDGg/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/iAEvmGcVDGg/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/iAEvmGcVDGg/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Meow_Li",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-06-24T02:00:17Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "MF4u9KjwDV928thpjPr_x8gtajQ",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "tz021Xi8WVQ"
-      },
-      "snippet": {
-        "publishedAt": "2023-05-20T23:13:39Z",
-        "channelId": "UCfNcetb0dXVk53jZ9I0uKnA",
-        "title": "Kara.",
-        "description": "SOCIALS || Twitter: https://twitter.com/Leo4x1 Patreon: https://www.patreon.com/implicitlypretentious || CONTENTS || 0:00 - JLU ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/tz021Xi8WVQ/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/tz021Xi8WVQ/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/tz021Xi8WVQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Implicitly Pretentious",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-05-20T23:13:39Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "qDgrZNsEbyayCalCrMYLrwDsEXo",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "_1-q6znI0SA"
-      },
-      "snippet": {
-        "publishedAt": "2022-12-06T15:00:09Z",
-        "channelId": "UCl2aT0nRejTCQO_LHZAftBw",
-        "title": "KARA (카라) &quot;WHEN I MOVE (Japanese Version)” Official MV",
-        "description": "KARA 15th Anniversary Album 『MOVE AGAIN』 \"WHEN I MOVE (Japanese Version)” Music Video ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/_1-q6znI0SA/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/_1-q6znI0SA/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/_1-q6znI0SA/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "UNIVERSAL MUSIC JAPAN",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-12-06T15:00:09Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "is0Vap9qeUn9jV6r5kQE_CtHbdw",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "2lPCn_1MOG8"
-      },
-      "snippet": {
-        "publishedAt": "2023-06-24T16:00:31Z",
-        "channelId": "UC4ijq8Cg-8zQKx8OH12dUSw",
-        "title": "13 Hours in Singapore Airlines First Class Suite (London to Singapore)",
-        "description": "We got to fly Singapore's first class SUITE 13 hours from London to Singapore! ✈️   Check out https://bit.ly/KaraNateViator ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/2lPCn_1MOG8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/2lPCn_1MOG8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/2lPCn_1MOG8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Kara and Nate",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-06-24T16:00:31Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "uk4C5Y3aROSjD6onpf8139vzZhI",
-      "id": {
-        "kind": "youtube#channel",
-        "channelId": "UC1Y8isEO4vRNqcFXXEjtC-Q"
-      },
-      "snippet": {
-        "publishedAt": "2013-10-21T21:31:55Z",
-        "channelId": "UC1Y8isEO4vRNqcFXXEjtC-Q",
-        "title": "Kara Comparetto",
-        "description": "Hello! This channel is dedicated to all of my favorite piano music. Besides classical music which is my first love, I greatly admire ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://yt3.ggpht.com/FXBGXHS-bi2kNmDccOG_0lMTUyGqH8tO-subdfJw1H2Om0CQyi8FfMn0j6diJBApy2w1DjKeZQ=s88-c-k-c0xffffffff-no-rj-mo"
-          },
-          "medium": {
-            "url": "https://yt3.ggpht.com/FXBGXHS-bi2kNmDccOG_0lMTUyGqH8tO-subdfJw1H2Om0CQyi8FfMn0j6diJBApy2w1DjKeZQ=s240-c-k-c0xffffffff-no-rj-mo"
-          },
-          "high": {
-            "url": "https://yt3.ggpht.com/FXBGXHS-bi2kNmDccOG_0lMTUyGqH8tO-subdfJw1H2Om0CQyi8FfMn0j6diJBApy2w1DjKeZQ=s800-c-k-c0xffffffff-no-rj-mo"
-          }
-        },
-        "channelTitle": "Kara Comparetto",
-        "liveBroadcastContent": "upcoming",
-        "publishTime": "2013-10-21T21:31:55Z"
+        "publishTime": "2014-10-16T05:27:38Z"
       }
     },
     {
@@ -1120,138 +758,138 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "7MitgRi4kOi6Wwudk3QzatCMI9Q",
+      "etag": "epDs0RPrtXbgsqai6Dr-CnGiArc",
       "id": {
         "kind": "youtube#video",
-        "videoId": "IH9Sp6n_zvc"
+        "videoId": "RDDZvj9ktso"
       },
       "snippet": {
-        "publishedAt": "2023-05-01T17:00:09Z",
-        "channelId": "UCRxMJankBp5ZiP3kqweu5DA",
-        "title": "KVRA - La Suite (Clip officiel)",
-        "description": "Abonne-toi à la chaine YouTube. Instagram : https://www.instagram.com/kara_mecraa/ Snapchat : kara_mecraaa Tiktok ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/IH9Sp6n_zvc/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/IH9Sp6n_zvc/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/IH9Sp6n_zvc/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "KVRA MECRA",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-05-01T17:00:09Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "U9HkgJzFB83EICZ2URRq1yjiUr8",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "sGcUG_PBYJw"
-      },
-      "snippet": {
-        "publishedAt": "2023-06-28T18:00:22Z",
-        "channelId": "UCrBKSuGdfEkQ78IzsXDzpBw",
-        "title": "Ateş Kuşları 21. Bölüm | Part 4 &quot;Kara intikam için geri döndü!&quot;",
-        "description": "AteşKuşları yeni bölümüyle Cuma #atv'de! Ateş Kuşları 21. Bölüm Özeti; KARA, İNTİKAM İÇİN GERİ DÖNÜYOR! Ateş Kuşlarının ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/sGcUG_PBYJw/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/sGcUG_PBYJw/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/sGcUG_PBYJw/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Ateş Kuşları",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-06-28T18:00:22Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "R1YEeJvz16VShTxGyNRGgMGRKtc",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "evCw8DmgoUA"
-      },
-      "snippet": {
-        "publishedAt": "2023-06-17T15:00:23Z",
+        "publishedAt": "2023-07-01T15:30:08Z",
         "channelId": "UC4ijq8Cg-8zQKx8OH12dUSw",
-        "title": "We Rode the UK&#39;s Most Luxurious Trains (British Pullman vs Northern Belle)",
-        "description": "We rode the UK's two most luxurious day trains England's British Pullman and Wales' Northern Belle ✨ Get an exclusive ...",
+        "title": "We Walked Asia&#39;s Smallest Country",
+        "description": "Walking from the top of Singapore to the bottom was a bigger adventure than we expected! Try Headspace for 60 days: ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/evCw8DmgoUA/default.jpg",
+            "url": "https://i.ytimg.com/vi/RDDZvj9ktso/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/evCw8DmgoUA/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/RDDZvj9ktso/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/evCw8DmgoUA/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/RDDZvj9ktso/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
         "channelTitle": "Kara and Nate",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-06-17T15:00:23Z"
+        "publishTime": "2023-07-01T15:30:08Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "PorO5WHLjrv0pPYH6l-cpH-OvCA",
+      "etag": "4yUYPv957C74CdONjcIRDTPfi6A",
       "id": {
         "kind": "youtube#video",
-        "videoId": "4vAfa_4Ht8M"
+        "videoId": "qppKzj-syCA"
       },
       "snippet": {
-        "publishedAt": "2023-06-26T11:44:36Z",
-        "channelId": "UC_illtIbWXvq_98q_XwDPQg",
-        "title": "Kara Kara (CACkle) // fake Collab #y3llowcacklefc (gacha club)",
-        "description": "",
+        "publishedAt": "2022-07-01T00:00:15Z",
+        "channelId": "UCusW_eHZw_tWLVRv0fzxj_g",
+        "title": "카라(KARA) 노래 모음 34곡, 보고듣는 소울뮤직TV",
+        "description": "카라(KARA) 노래 모음 34곡, 보고듣는 소울뮤직TV ======================================== 신나는 트로트 댄스 파티, ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/4vAfa_4Ht8M/default.jpg",
+            "url": "https://i.ytimg.com/vi/qppKzj-syCA/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/4vAfa_4Ht8M/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/qppKzj-syCA/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/4vAfa_4Ht8M/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/qppKzj-syCA/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Mika rou",
+        "channelTitle": "소울뮤직TV",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-06-26T11:44:36Z"
+        "publishTime": "2022-07-01T00:00:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ifiq_k6_wcpN4yPd8ewQXRqUZjQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "j-pF56-ZYkY"
+      },
+      "snippet": {
+        "publishedAt": "2012-03-08T01:26:51Z",
+        "channelId": "UC6dJUKUc-JNEmqAzRBil_zQ",
+        "title": "&quot;Kara&quot; by Quantic Dream",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/j-pF56-ZYkY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/j-pF56-ZYkY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/j-pF56-ZYkY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "sceablog",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-03-08T01:26:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QC0aGon7Da_1JWvbATcfHN0DZ0o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HVWlrptdOFM"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-29T13:00:20Z",
+        "channelId": "UCunfpuYm_bM4FykPGyVXNRg",
+        "title": "Kara - 20 piętro (Official Video)",
+        "description": "POSŁUCHAJ W SERWISACH STREAMINGOWYCH - https://stopro.lnk.to/20pietro ZAMÓW ALBUM Kary - https://stoprorap.pl „20 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HVWlrptdOFM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HVWlrptdOFM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HVWlrptdOFM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "StoproRap",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-29T13:00:20Z"
       }
     },
     {
@@ -1290,36 +928,308 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "UMUyLGEuZONW6qtl6Dsh4YqxASM",
+      "etag": "mzzMsY2WGtmrY_m4aOKNk4SD9zI",
       "id": {
         "kind": "youtube#video",
-        "videoId": "459K8GpQAYY"
+        "videoId": "cG1JFBpKilI"
       },
       "snippet": {
-        "publishedAt": "2023-06-23T14:12:58Z",
-        "channelId": "UCmpZ9vWFYOsYeLPLQk552Qw",
-        "title": "KARA KARA (Cackle) || Fake collab w/ @Y3LLOWx   || #y3llowcacklefc || Alex",
-        "description": "meme #animation #gacha #trend #y3llowcacklefc theres one thing im bad at its syncing the character to the beat.",
+        "publishedAt": "2023-03-04T12:08:12Z",
+        "channelId": "UCN90xko8R5hpoB8mYkm5HKQ",
+        "title": "2023.03.04 Kansai Collection 2023 SS - 카라 KARA live stage",
+        "description": "2023.03.04 Kansai Collection 2023 SS - 카라 KARA live stage 0:24 WHEN I MOVE 5:36 STEP 8:59 Jet Coaster Love 14:49 Mr ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/459K8GpQAYY/default.jpg",
+            "url": "https://i.ytimg.com/vi/cG1JFBpKilI/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/459K8GpQAYY/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/cG1JFBpKilI/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/459K8GpQAYY/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/cG1JFBpKilI/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Descritipop★",
+        "channelTitle": "熱情的菠蘿",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-06-23T14:12:58Z"
+        "publishTime": "2023-03-04T12:08:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "is0Vap9qeUn9jV6r5kQE_CtHbdw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2lPCn_1MOG8"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-24T16:00:31Z",
+        "channelId": "UC4ijq8Cg-8zQKx8OH12dUSw",
+        "title": "13 Hours in Singapore Airlines First Class Suite (London to Singapore)",
+        "description": "We got to fly Singapore's first class SUITE 13 hours from London to Singapore! ✈️   Check out https://bit.ly/KaraNateViator ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2lPCn_1MOG8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2lPCn_1MOG8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2lPCn_1MOG8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Kara and Nate",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-24T16:00:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IreMgqF2pnqmDmlXCdmOaGa-R94",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8T75OH5k15g"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-04T22:29:52Z",
+        "channelId": "UCbZvkG2uAgr6Oiva4FytscQ",
+        "title": "KARA、7年ぶり復活で「ミスター」披露！“ヒップダンス”で会場を魅了　『関西コレクション 2023S/S | KANSAI COLLECTION 2023S/S』",
+        "description": "韓国ガールズグループ・KARAが4日、京セラドーム大阪で行われた『関西コレクション 2023S/S | KANSAI COLLECTION ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8T75OH5k15g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8T75OH5k15g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8T75OH5k15g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "oricon",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-04T22:29:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xN5_HnONEBh8IcdTh0bn28C2dxk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MsFudHMW56A"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-26T00:18:00Z",
+        "channelId": "UCf9-u3laCv319xDpBCudnGg",
+        "title": "KARA KARA || #y3llowcacklefc || FAKE COLLAB WITH @Y3LLOWx || XD",
+        "description": "THIS IF MY VERY VERY FIST COLLAB AND I'M SO HAPPY TO PARTICIPATE!!!! I enjoyed making my part in this! ^^ Hewo :p.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MsFudHMW56A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MsFudHMW56A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MsFudHMW56A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "『 BLUE MANGO GC 』",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-26T00:18:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qDgrZNsEbyayCalCrMYLrwDsEXo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_1-q6znI0SA"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-06T15:00:09Z",
+        "channelId": "UCl2aT0nRejTCQO_LHZAftBw",
+        "title": "KARA (카라) &quot;WHEN I MOVE (Japanese Version)” Official MV",
+        "description": "KARA 15th Anniversary Album 『MOVE AGAIN』 \"WHEN I MOVE (Japanese Version)” Music Video ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_1-q6znI0SA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_1-q6znI0SA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_1-q6znI0SA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "UNIVERSAL MUSIC JAPAN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-06T15:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fbQL4vTtVOnRnoVnqDcPtcr_q1Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sCy5lcPDH-Y"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-28T07:23:34Z",
+        "channelId": "UC8l-86cs2uE5cVwf2V_mVIA",
+        "title": "KARA KARA (CACKLE/EMPTINESS) | FAKE COLLAB W/@Y3LLOWx| #y3llowcacklefc | GACHA ANIMATION MEME",
+        "description": "KARA KARA (CACKLE/EMPTINESS) | FAKE COLLAB W/@Y3LLOWx | #y3llowcacklefc | GACHA ANIMATION MEME HI Y'ALL I'M ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sCy5lcPDH-Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sCy5lcPDH-Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sCy5lcPDH-Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KyudimiPop",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-28T07:23:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-9FaSAs44_G9Sn69RHLq-ABrvvU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3lD_GtxZKEM"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-02T13:23:30Z",
+        "channelId": "UCVIGNOm3s6mpZxp0WUfwgxA",
+        "title": "Happy Sunday",
+        "description": "GandangKara #DjKara #KlarizMagboo.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3lD_GtxZKEM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3lD_GtxZKEM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3lD_GtxZKEM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Gandang Kara",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-02T13:23:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5SStMlLxMjnzcuLjbHJolA41NWo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5FpZ1J58WYA"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-04T16:19:15Z",
+        "channelId": "UCJjr5XLTjp018uuDpRbcc7w",
+        "title": "【KARA/KillingVoice/日本語字幕】※ イヤホン推奨※ Killing Voice×KARA",
+        "description": "ご視聴ありがとうございます    ‍♀️ コメント､評価､励みとなっております     ⚠️独学･意訳⚠️ #KARA #WHEN_I_MOVE ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5FpZ1J58WYA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5FpZ1J58WYA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5FpZ1J58WYA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "사기20",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-04T16:19:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "baI8nGxHYA6783Y-m8u0GwOsghM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WWJcxsF5ukI"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-23T19:34:38Z",
+        "channelId": "UCrBKSuGdfEkQ78IzsXDzpBw",
+        "title": "Ateş Kuşları Gülayşe için Kara&#39;yı feda etti! - Ateş Kuşları 21. Bölüm (Sezon Finali)",
+        "description": "AteşKuşları yeni bölümüyle Cuma #atv'de! Ateş Kuşları 21. Bölüm Özeti; KARA, İNTİKAM İÇİN GERİ DÖNÜYOR! Ateş Kuşlarının ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WWJcxsF5ukI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WWJcxsF5ukI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WWJcxsF5ukI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Ateş Kuşları",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-23T19:34:38Z"
       }
     },
     {
@@ -1358,104 +1268,138 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "WjNBtHFI3KScKbYatPVok3AZ8Zc",
+      "etag": "LIVi72vKx-rgCoUhdGo_uOVpY78",
       "id": {
         "kind": "youtube#video",
-        "videoId": "KzDsfJeBMDA"
+        "videoId": "mbPTIlkDPmg"
       },
       "snippet": {
-        "publishedAt": "2021-11-16T06:30:04Z",
-        "channelId": "UCOxGzd-Wfd6BiP6_YXbDnLA",
-        "title": "Magic dikha kar kara confused😂 #shorts #imkavy",
-        "description": "",
+        "publishedAt": "2016-08-16T04:38:31Z",
+        "channelId": "UCstEtN0pgOmCf02EdXsGChw",
+        "title": "Hannah pushes Rebecca downstairs | Doble Kara",
+        "description": "Hannah cries when she sees Rebecca's family picture and pushes her down the stairs. Subscribe to the ABS-CBN Entertainment ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/KzDsfJeBMDA/default.jpg",
+            "url": "https://i.ytimg.com/vi/mbPTIlkDPmg/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/KzDsfJeBMDA/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/mbPTIlkDPmg/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/KzDsfJeBMDA/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/mbPTIlkDPmg/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "imkavy",
+        "channelTitle": "ABS-CBN Entertainment",
         "liveBroadcastContent": "none",
-        "publishTime": "2021-11-16T06:30:04Z"
+        "publishTime": "2016-08-16T04:38:31Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "vXw0SATOj8gFz1KuG7ocpA1UNfQ",
+      "etag": "rHL2POr4N0RWWrGCBz7Bs4q92sQ",
       "id": {
         "kind": "youtube#video",
-        "videoId": "NW729BFowSY"
+        "videoId": "AibgxjptM4M"
       },
       "snippet": {
-        "publishedAt": "2023-06-25T11:44:15Z",
-        "channelId": "UCfwHxTK0dQbqLV2cqWth3rQ",
-        "title": "(Cackle) Kara Kara  || Gacha Fake collab with @Y3LLOWx   ^⁠_⁠^",
-        "description": "y3llowcacklefc #gch #gch #edit #animationmeme Idk if u read this but hiiii :D This was really fun to make Song: ...",
+        "publishedAt": "2023-06-25T08:22:06Z",
+        "channelId": "UCNn0cUnUFmBTXsVNqOkK_eg",
+        "title": "Kara Kara (Cackle) |Fake Collab w @Y3LLOWx| Gacha",
+        "description": "y3llowcacklefc another Kikuo's song?? ✨ Song: https://youtu.be/hL75gQUcu0A app use: Gacha Neon Ibis Paint x Alight Motion.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/NW729BFowSY/default.jpg",
+            "url": "https://i.ytimg.com/vi/AibgxjptM4M/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/NW729BFowSY/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/AibgxjptM4M/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/NW729BFowSY/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/AibgxjptM4M/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Al_creativelylazy",
+        "channelTitle": "PopoCHI PoP",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-06-25T11:44:15Z"
+        "publishTime": "2023-06-25T08:22:06Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "67n_NEGdtE9fnHVJslC4WtrH3vc",
+      "etag": "vooVP6nkzWteTB_OiPZ6UBemSqk",
       "id": {
         "kind": "youtube#video",
-        "videoId": "W0VxRm_0xMY"
+        "videoId": "uLYNI3amio4"
       },
       "snippet": {
-        "publishedAt": "2022-09-05T18:15:03Z",
-        "channelId": "UC1Fc8RIaSgmsLmmUKwHECvA",
-        "title": "KARA DLA BANDURY",
-        "description": "ZOSTAW SUBA I ŁAPKĘ W GÓRĘ, ABY BYĆ NA BIEŻĄCO INSTAGRAM ▻ BANDURA: ...",
+        "publishedAt": "2022-09-01T13:00:14Z",
+        "channelId": "UCXwHjYWL3DH8JZ3t4gmumqQ",
+        "title": "KARA - Nie wiem czy przeżyję prod. RND",
+        "description": "Siemanko, z tej strony Kara. Ostatnio ciężki czas, więc postanowiłam się z Wami podzielić towarzyszącymi mi emocjami. Miłego ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/W0VxRm_0xMY/default.jpg",
+            "url": "https://i.ytimg.com/vi/uLYNI3amio4/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/W0VxRm_0xMY/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/uLYNI3amio4/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/W0VxRm_0xMY/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/uLYNI3amio4/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Bungee",
+        "channelTitle": "KARA PAWKO",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-09-05T18:15:03Z"
+        "publishTime": "2022-09-01T13:00:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IpyXRTaw5Q9qdvAhPelx_ERycAk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RfDVezd-Qdc"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-27T13:04:58Z",
+        "channelId": "UC52eM8o2E_SrgjQM2cv8O_A",
+        "title": "KARA KARA (CACKLE) | Fake Collab : @Y3LLOWx #y3llowcacklefc",
+        "description": "Didn't turn out as good as I wanted it to but had super fun making this video!, ( ty for watching my first video on this YouTube ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RfDVezd-Qdc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RfDVezd-Qdc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RfDVezd-Qdc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "× Melody ×",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-27T13:04:58Z"
       }
     },
     {
@@ -1494,206 +1438,274 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "aWYvAFRn97Xxa6nVyFQEVpEo_E0",
+      "etag": "weLMDLhJKLPLhfgxlINSEUxKnY0",
       "id": {
         "kind": "youtube#video",
-        "videoId": "Jj5vw9hNhsI"
+        "videoId": "XNNEnSdFyPA"
       },
       "snippet": {
-        "publishedAt": "2023-06-27T07:18:52Z",
-        "channelId": "UC2OPPQoFSorD_tB_tlCwpEQ",
-        "title": "🌟KARA KARA [CACKLE] Fake Collab #y3llowcacklefc @Y3LLOWx 🌟",
-        "description": "this is my first fake collab Original FakeCollab: https://youtu.be/Y4T6RzJ9Oe8 Music by: https://youtu.be/4vAfa_4Ht8M.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Jj5vw9hNhsI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Jj5vw9hNhsI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Jj5vw9hNhsI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "KhaiiSaja._",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-06-27T07:18:52Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "98IsDaJbj3z6lzGB-aXuHUpSEv4",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "nNvFqQhUyzk"
-      },
-      "snippet": {
-        "publishedAt": "2023-06-22T09:49:22Z",
+        "publishedAt": "2023-06-23T21:16:20Z",
         "channelId": "UCUVZ7T_kwkxDOGFcDlFI-hg",
-        "title": "Ateş Kuşları 21. Bölüm 3. Fragmanı (Sezon Finali) | Düğün günü Kara sürpriz! @ateskuslari",
-        "description": "Barbaros duydukları karşısında kahroluyor! Kara Gülayşe'nin düğün günü geri dönüyor! #AteşKuşları yeni bölümüyle Cuma ...",
+        "title": "Kara&#39;nın öyküsü şimdi başlıyor - Ateş Kuşları 21. Bölüm (Sezon Finali)",
+        "description": "AteşKuşları yeni bölümüyle Cuma #atv'de! Sahnenin bulunduğu 21. Bölüm Sezon Finali izlemek için TIKLA: ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/nNvFqQhUyzk/default.jpg",
+            "url": "https://i.ytimg.com/vi/XNNEnSdFyPA/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/nNvFqQhUyzk/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/XNNEnSdFyPA/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/nNvFqQhUyzk/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/XNNEnSdFyPA/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
         "channelTitle": "atv",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-06-22T09:49:22Z"
+        "publishTime": "2023-06-23T21:16:20Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "34qlfakw1oDnepvjAcZq7Wjc8lg",
+      "etag": "7MitgRi4kOi6Wwudk3QzatCMI9Q",
       "id": {
         "kind": "youtube#video",
-        "videoId": "PsBjLGZqDz4"
+        "videoId": "IH9Sp6n_zvc"
       },
       "snippet": {
-        "publishedAt": "2023-06-06T10:30:09Z",
-        "channelId": "UCRi0YUbd4wdTvXkXoLKkX6g",
-        "title": "🚨DJANFA - EPISODE 06 - FILM SERIE LONG METRAGE ( 2023 )",
-        "description": "KaraDesignOfficiel #videodrole #comedievideo #malihumour #video2021 #Comédien, #video_comedie, #film, #serie #theatre ...",
+        "publishedAt": "2023-05-01T17:00:09Z",
+        "channelId": "UCRxMJankBp5ZiP3kqweu5DA",
+        "title": "KVRA - La Suite (Clip officiel)",
+        "description": "Abonne-toi à la chaine YouTube. Instagram : https://www.instagram.com/kara_mecraa/ Snapchat : kara_mecraaa Tiktok ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/PsBjLGZqDz4/default.jpg",
+            "url": "https://i.ytimg.com/vi/IH9Sp6n_zvc/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/PsBjLGZqDz4/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/IH9Sp6n_zvc/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/PsBjLGZqDz4/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/IH9Sp6n_zvc/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Kara Design Officiel",
+        "channelTitle": "KVRA MECRA",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-06-06T10:30:09Z"
+        "publishTime": "2023-05-01T17:00:09Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "836k4o75uIY2aIn0JXegtcXoadA",
+      "etag": "_cxwcw4KTy7n4splRfHLgZ-jAgE",
       "id": {
         "kind": "youtube#video",
-        "videoId": "pcG37wnPMlc"
+        "videoId": "kchvhDQ4jRU"
       },
       "snippet": {
-        "publishedAt": "2022-12-03T13:29:50Z",
-        "channelId": "UCF3UEVPt5zZTlBVJwDG317g",
-        "title": "[아는형님] 이거 듣고 엉덩이 가만둘 수 있는 사람? 카라(KARA) 히트곡 메들리｜핫클립｜JTBC 221203 방송 외",
-        "description": "이 멤버가 뭉쳤는데 레전드가 아닐 수 X..ㅠㅠ 카라는 전설이다..⭐ 추억 여행 시작합니다 #아는형님 #핫클립 #카라 #KARA [JTBC ...",
+        "publishedAt": "2021-01-28T12:00:12Z",
+        "channelId": "UCl_LuJtkFAmXL-ZiPeXE-gQ",
+        "title": "Kara – Отвали (Официальный клип)",
+        "description": "Ссылка на канал Kara: https://www.youtube.com/channel/UCAgBZSB3ywW17981F7Lcd8w Слушать трек «Отвали» на всех ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/pcG37wnPMlc/default.jpg",
+            "url": "https://i.ytimg.com/vi/kchvhDQ4jRU/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/pcG37wnPMlc/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/kchvhDQ4jRU/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/pcG37wnPMlc/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/kchvhDQ4jRU/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "JTBC Voyage",
+        "channelTitle": "Media Land",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-12-03T13:29:50Z"
+        "publishTime": "2021-01-28T12:00:12Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "WYimcRnpZt7VBnnYAb4MQaCaHwE",
+      "etag": "awUdgUSbOU_xWR9dpE30jiwANcQ",
       "id": {
         "kind": "youtube#video",
-        "videoId": "Yj63VGd-oT4"
+        "videoId": "8TQWXeD6BgM"
       },
       "snippet": {
-        "publishedAt": "2021-08-17T20:00:12Z",
-        "channelId": "UC_8ZFk0kyvC1gmHlEnKydkA",
-        "title": "Rap da Kara (Boruto) - TROPA DA KARA | GEEK WEEK",
-        "description": "Em meio a tempestades, confie em Deus. ♥ DEIXA O LIKE E SE INSCREVA SE GOSTOU DO VIDEO♥ ♫ Plataformas digitais ...",
+        "publishedAt": "2023-06-26T14:30:37Z",
+        "channelId": "UCqCpiK3AVWPOn-Ve5dexNkQ",
+        "title": "KARA KARA Meme [CACKLE] Fake Collab #y3llowcacklefc 💛💖@Y3LLOWx @Kirbycottoncandy",
+        "description": "Inspire by https://youtu.be/rbHVwXLykmk.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/Yj63VGd-oT4/default.jpg",
+            "url": "https://i.ytimg.com/vi/8TQWXeD6BgM/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/Yj63VGd-oT4/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/8TQWXeD6BgM/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/Yj63VGd-oT4/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/8TQWXeD6BgM/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "JKZ",
+        "channelTitle": "☆KirbyCottonCandy☆",
         "liveBroadcastContent": "none",
-        "publishTime": "2021-08-17T20:00:12Z"
+        "publishTime": "2023-06-26T14:30:37Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "vEvJ97UQzrngIZ5kOCtW8ZUqJJE",
+      "etag": "5nrTLcqK6JVXcIwbSakKm20unG0",
       "id": {
         "kind": "youtube#video",
-        "videoId": "bZbbvAB6dS0"
+        "videoId": "TPr_7m6Ii0I"
       },
       "snippet": {
-        "publishedAt": "2023-06-26T11:10:00Z",
-        "channelId": "UCPaAlCadSjv46m1v7seuS1A",
-        "title": "OYUNDA Kİ TÜM NADİRLERİN OLDUĞU YENİ HESABIM! FULL+FULL! PUBG Mobile",
-        "description": "Selamlar dostlar! Yeni tüm nadir setlerin olduğu yeni hesabımı sizlere tanıttım! Keyifli seyirler... En uygun Uc satın alımı için kayıt ...",
+        "publishedAt": "2023-06-23T15:16:15Z",
+        "channelId": "UCw97q9cPKwl05grd1sA3-QQ",
+        "title": "🌟 KARA KARA 🌟|| FakeCollab (gacha) // #y3llowcacklefc @Y3LLOWx",
+        "description": "Fake Collab with Y3LLOW     https://www.youtube.com/watch?v=Y4T6RzJ9Oe8 Programs   Flipaclip Capcut Gacha ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/bZbbvAB6dS0/default.jpg",
+            "url": "https://i.ytimg.com/vi/TPr_7m6Ii0I/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/bZbbvAB6dS0/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/TPr_7m6Ii0I/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/bZbbvAB6dS0/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/TPr_7m6Ii0I/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Vural Üzül",
+        "channelTitle": "EmiCarnation 🌺",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-06-26T11:10:00Z"
+        "publishTime": "2023-06-23T15:16:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "d3QNL1WDyRQeuYzxeaQ59FrqCW8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TgBmQGDVI9U"
+      },
+      "snippet": {
+        "publishedAt": "2020-11-26T10:04:50Z",
+        "channelId": "UC_iC7MzEwWcBD3QqzXEzv0g",
+        "title": "Kara",
+        "description": "Provided to YouTube by RCA Local Kara · Beyazz Kara Tape ℗ 2020 RCA a division of Sony Music Entertainment Germany ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TgBmQGDVI9U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TgBmQGDVI9U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TgBmQGDVI9U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Beyazz - Topic",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-11-26T10:04:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HLGO893fvIrLKGu9GOJ_zIYq-A4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZJa3Qjyutwc"
+      },
+      "snippet": {
+        "publishedAt": "2017-01-17T05:12:22Z",
+        "channelId": "UCstEtN0pgOmCf02EdXsGChw",
+        "title": "Becca defends Hanna | Doble Kara",
+        "description": "Becca defends Hanna against her friends. Subscribe to ABS-CBN Entertainment channel! - http://bit.ly/ABS-CBNEntertainment ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZJa3Qjyutwc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZJa3Qjyutwc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZJa3Qjyutwc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ABS-CBN Entertainment",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-01-17T05:12:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kU1I-lpkY_qgwo4BPVULpTr9gTk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4u3O8_MJiLQ"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-30T17:55:53Z",
+        "channelId": "UCJH8fZIHhCoKHCUfp05qREg",
+        "title": "DENİZ VE KARA KUVVETLERİNİN BİR SİLAHI DAHA YERLİLEŞİYOR",
+        "description": "Türk Silahlı Kuvvetlerinin deniz ve kara platformlarında kullanılan 25 milimetre silah sisteminin yerlileştirilmesinde önemli bir adım ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4u3O8_MJiLQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4u3O8_MJiLQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4u3O8_MJiLQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "M5 Prime",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-30T17:55:53Z"
       }
     }
   ]

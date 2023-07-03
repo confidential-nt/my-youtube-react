@@ -19,17 +19,15 @@ export default function Videos() {
   return (
     videos.length && (
       <ul>
-        {videos
-          .filter((video) => getVideoId(video))
-          .map((video) => {
-            return (
-              <VideoCard
-                key={getVideoId(video)}
-                videoId={getVideoId(video)}
-                video={video}
-              />
-            );
-          })}
+        {videos.map((video) => {
+          return (
+            <VideoCard
+              key={getVideoId(video)}
+              videoId={getVideoId(video)}
+              video={video}
+            />
+          );
+        })}
       </ul>
     )
   );

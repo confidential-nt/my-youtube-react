@@ -20,9 +20,8 @@ export default function VideoDetail() {
           height="315"
           src={`https://www.youtube.com/embed/${video.id}`}
           title="YouTube video player"
-          frameborder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-          allowfullscreen
+          allowFullScreen
         ></iframe>
         <h2>{video.snippet.title}</h2>
         <h3>{video.snippet.channelTitle}</h3>
