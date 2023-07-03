@@ -1,26 +1,31 @@
-import React, { useEffect, useState } from "react";
+import React from "react";
 import { useParams } from "react-router-dom";
+import { useQuery } from "@tanstack/react-query";
 import VideoCard from "../VideoCard/VideoCard";
 import fetchData from "../../utility/fetch_data";
 import getVideoId from "../../utility/get_video_id";
 
 export default function Videos() {
-  const [videos, setVideos] = useState([]);
-
   const { keyword } = useParams();
 
-  useEffect(() => {
-    fetchData(
-      `${
-        keyword ? "/data/search_result.json" : "/data/most_popular_videos.json"
-      }`
-    ).then((json) => setVideos(json.items));
-  }, [keyword]);
+  const { data: videos } = useQuery({
+    queryKey: ["videos", keyword],
+    queryFn: () =>
+      fetchData(
+        `${
+          keyword
+            ? "/data/search_result.json"
+            : "/data/most_popular_videos.json"
+        }`
+      ),
+    staleTime: 1000 * 60 * 5,
+    refetchOnWindowFocus: false,
+  });
 
   return (
-    videos.length && (
+    videos && (
       <ul>
-        {videos.map((video) => {
+        {videos.items.map((video) => {
           return (
             <VideoCard
               key={getVideoId(video)}
