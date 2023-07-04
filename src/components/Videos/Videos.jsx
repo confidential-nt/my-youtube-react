@@ -14,8 +14,8 @@ export default function Videos() {
       fetchData(
         `${
           keyword
-            ? "/data/search_result.json"
-            : "/data/most_popular_videos.json"
+            ? `https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=${keyword}&type=video&key=${process.env.REACT_APP_YT_API_KEY}`
+            : `https://www.googleapis.com/youtube/v3/videos?part=snippet&chart=mostPopular&maxResults=50&regionCode=KR&type=video&key=${process.env.REACT_APP_YT_API_KEY}`
         }`
       ),
     staleTime: 1000 * 60,
@@ -31,6 +31,7 @@ export default function Videos() {
               key={getVideoId(video)}
               videoId={getVideoId(video)}
               video={video}
+              onDetail={false}
             />
           );
         })}

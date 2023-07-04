@@ -5,8 +5,6 @@ import useChannel from "../../hook/use_channel";
 import ChannelMark from "../ChannelMark/ChannelMark";
 
 export default function VideoCard({ video, videoId, onDetail }) {
-  const [channel] = useChannel();
-
   const {
     snippet: {
       title,
@@ -15,8 +13,11 @@ export default function VideoCard({ video, videoId, onDetail }) {
       thumbnails: {
         high: { url: hurl },
       },
+      channelId,
     },
   } = video;
+
+  const [channel] = useChannel(channelId);
 
   return (
     channel && (
@@ -29,7 +30,7 @@ export default function VideoCard({ video, videoId, onDetail }) {
               <img
                 src={hurl}
                 alt={title}
-                className="w-full h-full object-cover"
+                className="block w-full h-full object-cover"
               />
             </div>
             <div className={`flex ${onDetail ? "basis-1/2" : ""}`}>
@@ -44,7 +45,7 @@ export default function VideoCard({ video, videoId, onDetail }) {
               )}
               <div>
                 <h2 className={`${onDetail ? "text-xs" : "text-sm"}`}>
-                  {title.slice(0, 40) + " ..."}
+                  {title.slice(0, 40) + (title.length > 40 ? " ..." : "")}
                 </h2>
                 <h4
                   className={`${

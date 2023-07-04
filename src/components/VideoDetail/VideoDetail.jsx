@@ -1,27 +1,41 @@
 import React from "react";
 import fetchData from "../../utility/fetch_data";
 import { useQuery } from "@tanstack/react-query";
+import { useParams } from "react-router-dom";
 import VideoCard from "../VideoCard/VideoCard";
 import getVideoId from "../../utility/get_video_id";
 import useChannel from "../../hook/use_channel";
 import ChannelMark from "../ChannelMark/ChannelMark";
 
 export default function VideoDetail() {
-  const [channel] = useChannel();
+  const { id } = useParams();
 
   const { data: video } = useQuery({
-    queryKey: ["video"],
-    queryFn: () => fetchData("/data/video_details.json"),
+    queryKey: ["video", id],
+    queryFn: () =>
+      fetchData(
+        `https://www.googleapis.com/youtube/v3/videos?part=snippet&id=${id}&key=${process.env.REACT_APP_YT_API_KEY}`
+      ),
     staleTime: 1000 * 60 * 5,
     refetchOnWindowFocus: false,
   });
 
   const { data: relatedVideos } = useQuery({
     queryKey: ["relatedVideos"],
-    queryFn: () => fetchData("/data/related_videos.json"),
+    queryFn: () =>
+      fetchData(
+        `https://www.googleapis.com/youtube/v3/search?part=snippet&type=video&relatedToVideoId=${id}&maxResults=50&key=${process.env.REACT_APP_YT_API_KEY}`
+      ),
     staleTime: 1000 * 60 * 5,
     refetchOnWindowFocus: false,
   });
+
+  let channelId = undefined;
+  if (video) {
+    channelId = video.items[0].snippet.channelId;
+  }
+
+  const [channel] = useChannel(channelId);
 
   return (
     video &&
@@ -31,7 +45,7 @@ export default function VideoDetail() {
         <div className="basis-full text-white lg:basis-9/12">
           <iframe
             className="w-full h-96"
-            src={`https://www.youtube.com/embed/${video.items[0].id}`}
+            src={`https://www.youtube.com/embed/${id}`}
             title="YouTube video player"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
             allowFullScreen
@@ -46,7 +60,8 @@ export default function VideoDetail() {
             <h3>{video.items[0].snippet.channelTitle}</h3>
           </div>
           <p className="text-yt-light-grey font-light">
-            {video.items[0].snippet.description.slice(0, 150) + " ..."}
+            {video.items[0].snippet.description.slice(0, 150) +
+              (video.items[0].snippet.description.length > 150 ? " ..." : "")}
           </p>
         </div>
         <ul className="basis-full lg:basis-3/12 lg:ml-2">
