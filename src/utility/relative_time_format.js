@@ -5,11 +5,11 @@ export default function relativeTimeFormat(publishedAt) {
   const diff = Date.now() - new Date(publishedAt);
 
   if (isLessThanDay(diff)) {
-    return isLessThanMinute(diff)
+    return !isLessThanMinute(diff)
+      ? rtf1.format(-hour(diff), "hour")
+      : isLessThanMinute(diff)
       ? rtf1.format(-sec(diff), "second")
-      : isLessThanHour(diff)
-      ? rtf1.format(-min(diff), "minute")
-      : rtf1.format(-hour(diff), "hour");
+      : rtf1.format(-min(diff), "minute");
   }
 
   if (isLessThanMonth(diff)) {
