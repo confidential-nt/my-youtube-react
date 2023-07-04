@@ -9221,6 +9221,7 @@ __metadata:
     react: ^18.2.0
     react-dom: ^18.2.0
     react-icons: ^4.10.1
+    react-placeholder: ^4.1.0
     react-router-dom: ^6.14.0
     react-scripts: 5.0.1
     tailwindcss: ^3.3.2
@@ -10925,6 +10926,15 @@ __metadata:
   version: 18.2.0
   resolution: "react-is@npm:18.2.0"
   checksum: e72d0ba81b5922759e4aff17e0252bd29988f9642ed817f56b25a3e217e13eea8a7f2322af99a06edb779da12d5d636e9fda473d620df9a3da0df2a74141d53e
+  languageName: node
+  linkType: hard
+
+"react-placeholder@npm:^4.1.0":
+  version: 4.1.0
+  resolution: "react-placeholder@npm:4.1.0"
+  peerDependencies:
+    react: ^16.8.0 || ^17
+  checksum: f437389b76591e9da98f7c84135f71d7d623c4e575257d6625f12a6d50743ed552ac92ca01629a16832e1a01ea7b7cd60fc4d532804daf1bc9dc540f2d336b4d
   languageName: node
   linkType: hard
 

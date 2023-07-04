@@ -37,6 +37,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["react", "npm:18.2.0"],\
             ["react-dom", "virtual:2f2c23207f2a3ce821d8df5669d3c559265795e12222af7d88a381ff521e7c867e8ec2fef43dae6a4c7ff802b0aef7461797da311680b7b91b8db59485b9f311#npm:18.2.0"],\
             ["react-icons", "virtual:2f2c23207f2a3ce821d8df5669d3c559265795e12222af7d88a381ff521e7c867e8ec2fef43dae6a4c7ff802b0aef7461797da311680b7b91b8db59485b9f311#npm:4.10.1"],\
+            ["react-placeholder", "virtual:2f2c23207f2a3ce821d8df5669d3c559265795e12222af7d88a381ff521e7c867e8ec2fef43dae6a4c7ff802b0aef7461797da311680b7b91b8db59485b9f311#npm:4.1.0"],\
             ["react-router-dom", "virtual:2f2c23207f2a3ce821d8df5669d3c559265795e12222af7d88a381ff521e7c867e8ec2fef43dae6a4c7ff802b0aef7461797da311680b7b91b8db59485b9f311#npm:6.14.0"],\
             ["react-scripts", "virtual:2f2c23207f2a3ce821d8df5669d3c559265795e12222af7d88a381ff521e7c867e8ec2fef43dae6a4c7ff802b0aef7461797da311680b7b91b8db59485b9f311#npm:5.0.1"],\
             ["tailwindcss", "npm:3.3.2"],\
@@ -12464,6 +12465,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["react", "npm:18.2.0"],\
             ["react-dom", "virtual:2f2c23207f2a3ce821d8df5669d3c559265795e12222af7d88a381ff521e7c867e8ec2fef43dae6a4c7ff802b0aef7461797da311680b7b91b8db59485b9f311#npm:18.2.0"],\
             ["react-icons", "virtual:2f2c23207f2a3ce821d8df5669d3c559265795e12222af7d88a381ff521e7c867e8ec2fef43dae6a4c7ff802b0aef7461797da311680b7b91b8db59485b9f311#npm:4.10.1"],\
+            ["react-placeholder", "virtual:2f2c23207f2a3ce821d8df5669d3c559265795e12222af7d88a381ff521e7c867e8ec2fef43dae6a4c7ff802b0aef7461797da311680b7b91b8db59485b9f311#npm:4.1.0"],\
             ["react-router-dom", "virtual:2f2c23207f2a3ce821d8df5669d3c559265795e12222af7d88a381ff521e7c867e8ec2fef43dae6a4c7ff802b0aef7461797da311680b7b91b8db59485b9f311#npm:6.14.0"],\
             ["react-scripts", "virtual:2f2c23207f2a3ce821d8df5669d3c559265795e12222af7d88a381ff521e7c867e8ec2fef43dae6a4c7ff802b0aef7461797da311680b7b91b8db59485b9f311#npm:5.0.1"],\
             ["tailwindcss", "npm:3.3.2"],\
@@ -15169,6 +15171,28 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/react-is-npm-18.2.0-0cc5edb910-e72d0ba81b.zip/node_modules/react-is/",\
           "packageDependencies": [\
             ["react-is", "npm:18.2.0"]\
+          ],\
+          "linkType": "HARD"\
+        }]\
+      ]],\
+      ["react-placeholder", [\
+        ["npm:4.1.0", {\
+          "packageLocation": "./.yarn/cache/react-placeholder-npm-4.1.0-1d3620ee2f-f437389b76.zip/node_modules/react-placeholder/",\
+          "packageDependencies": [\
+            ["react-placeholder", "npm:4.1.0"]\
+          ],\
+          "linkType": "SOFT"\
+        }],\
+        ["virtual:2f2c23207f2a3ce821d8df5669d3c559265795e12222af7d88a381ff521e7c867e8ec2fef43dae6a4c7ff802b0aef7461797da311680b7b91b8db59485b9f311#npm:4.1.0", {\
+          "packageLocation": "./.yarn/__virtual__/react-placeholder-virtual-0c8fd7bb3c/0/cache/react-placeholder-npm-4.1.0-1d3620ee2f-f437389b76.zip/node_modules/react-placeholder/",\
+          "packageDependencies": [\
+            ["react-placeholder", "virtual:2f2c23207f2a3ce821d8df5669d3c559265795e12222af7d88a381ff521e7c867e8ec2fef43dae6a4c7ff802b0aef7461797da311680b7b91b8db59485b9f311#npm:4.1.0"],\
+            ["@types/react", null],\
+            ["react", "npm:18.2.0"]\
+          ],\
+          "packagePeers": [\
+            "@types/react",\
+            "react"\
           ],\
           "linkType": "HARD"\
         }]\
