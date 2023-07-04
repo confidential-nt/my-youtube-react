@@ -21,7 +21,7 @@ export default function VideoCard({ video, videoId, onDetail }) {
 
   return (
     channel && (
-      <li id={videoId} className="text-white">
+      <li id={videoId} className={`text-white ${onDetail ? "mb-2" : ""}`}>
         <Link to={`/videos/watch/${videoId}`}>
           <div className={`${onDetail ? "flex" : "block"}`}>
             <div
@@ -45,7 +45,7 @@ export default function VideoCard({ video, videoId, onDetail }) {
               )}
               <div>
                 <h2 className={`${onDetail ? "text-xs" : "text-sm"}`}>
-                  {title.slice(0, 40) + (title.length > 40 ? " ..." : "")}
+                  {title.slice(0, 30) + (title.length > 30 ? " ..." : "")}
                 </h2>
                 <h4
                   className={`${
