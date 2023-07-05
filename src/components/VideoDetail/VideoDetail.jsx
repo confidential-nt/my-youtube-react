@@ -6,26 +6,21 @@ import VideoCard from "../VideoCard/VideoCard";
 import getVideoId from "../../utility/get_video_id";
 import useChannel from "../../hook/use_channel";
 import ChannelMark from "../ChannelMark/ChannelMark";
+import { FakeUrl } from "../../constant/urls";
 
 export default function VideoDetail() {
   const { id } = useParams();
 
   const { data: video } = useQuery({
     queryKey: ["video", id],
-    queryFn: () =>
-      fetchData(
-        `https://www.googleapis.com/youtube/v3/videos?part=snippet&id=${id}&key=${process.env.REACT_APP_YT_API_KEY}`
-      ),
+    queryFn: () => fetchData(FakeUrl.VIDEO_DETAILS),
     staleTime: 1000 * 60 * 5,
     refetchOnWindowFocus: false,
   });
 
   const { data: relatedVideos } = useQuery({
     queryKey: ["relatedVideos"],
-    queryFn: () =>
-      fetchData(
-        `https://www.googleapis.com/youtube/v3/search?part=snippet&type=video&relatedToVideoId=${id}&maxResults=50&key=${process.env.REACT_APP_YT_API_KEY}`
-      ),
+    queryFn: () => fetchData(FakeUrl.RELATED_VIDEOS),
     staleTime: 1000 * 60 * 5,
     refetchOnWindowFocus: false,
   });

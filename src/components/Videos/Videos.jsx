@@ -4,34 +4,47 @@ import { useQuery } from "@tanstack/react-query";
 import VideoCard from "../VideoCard/VideoCard";
 import fetchData from "../../utility/fetch_data";
 import getVideoId from "../../utility/get_video_id";
+import ReactPlaceholder from "react-placeholder";
+import VideoCardPlaceholder from "../VideoCardPlaceholder/VideoCardPlaceholder";
+import "react-placeholder/lib/reactPlaceholder.css";
+import { FakeUrl } from "../../constant/urls";
 
 export default function Videos() {
   const { keyword } = useParams();
 
-  const { data: videos } = useQuery({
+  const { isLoading, data: videos } = useQuery({
     queryKey: ["videos", keyword],
     queryFn: () =>
-      fetchData(
-        `${
-          keyword
-            ? `https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=${keyword}&type=video&key=${process.env.REACT_APP_YT_API_KEY}`
-            : `https://www.googleapis.com/youtube/v3/videos?part=snippet&chart=mostPopular&maxResults=50&regionCode=KR&type=video&key=${process.env.REACT_APP_YT_API_KEY}`
-        }`
-      ),
+      fetchData(keyword ? FakeUrl.SEARCH_RESULTS : FakeUrl.POPULAR_VIDEOS),
     staleTime: 1000 * 60,
     refetchOnWindowFocus: false,
   });
 
+  if (isLoading) {
+    return (
+      <ul className="h-screen grid grid-cols-1 lg:grid-cols-5 md:grid-cols-3 sm:grid-cols-2 gap-x-2 gap-y-2 bg-yt-black">
+        {Array.from(".".repeat(15)).map((el, index) => (
+          <ReactPlaceholder
+            ready={!isLoading}
+            customPlaceholder={VideoCardPlaceholder}
+            showLoadingAnimation={true}
+            key={index}
+          ></ReactPlaceholder>
+        ))}
+      </ul>
+    );
+  }
+
   return (
     videos && (
-      <ul className="grid grid-cols-1 lg:grid-cols-5 md:grid-cols-3 sm:grid-cols-2 gap-x-2 gap-y-2">
+      <ul className="grid grid-cols-1 lg:grid-cols-5 md:grid-cols-3 sm:grid-cols-2 gap-x-2 gap-y-2 bg-yt-black">
         {videos.items.map((video) => {
           return (
             <VideoCard
-              key={getVideoId(video)}
               videoId={getVideoId(video)}
               video={video}
               onDetail={false}
+              key={getVideoId(video)}
             />
           );
         })}
