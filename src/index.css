@@ -14,3 +14,7 @@ input[type="search"]::-webkit-search-results-decoration {
 input[type="search"]::-moz-search {
   -moz-appearance: textfield;
 }
+
+html {
+  background-color: #1a191c;
+}
