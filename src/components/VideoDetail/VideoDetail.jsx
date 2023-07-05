@@ -6,21 +6,21 @@ import VideoCard from "../VideoCard/VideoCard";
 import getVideoId from "../../utility/get_video_id";
 import useChannel from "../../hook/use_channel";
 import ChannelMark from "../ChannelMark/ChannelMark";
-import { FakeUrl } from "../../constant/urls";
+import { FakeUrl, Url } from "../../constant/urls";
 
 export default function VideoDetail() {
   const { id } = useParams();
 
   const { data: video } = useQuery({
     queryKey: ["video", id],
-    queryFn: () => fetchData(FakeUrl.VIDEO_DETAILS),
+    queryFn: () => fetchData(Url.VIDEO_DETAILS(id)),
     staleTime: 1000 * 60 * 60 * 24 * 3,
     refetchOnWindowFocus: false,
   });
 
   const { data: relatedVideos } = useQuery({
     queryKey: ["relatedVideos"],
-    queryFn: () => fetchData(FakeUrl.RELATED_VIDEOS),
+    queryFn: () => fetchData(Url.RELATED_VIDEOS(id)),
     staleTime: 1000 * 60 * 60,
     refetchOnWindowFocus: false,
   });

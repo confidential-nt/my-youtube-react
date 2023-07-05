@@ -1,11 +1,11 @@
 import { useQuery } from "@tanstack/react-query";
 import fetchData from "../utility/fetch_data";
-import { FakeUrl } from "../constant/urls";
+import { FakeUrl, Url } from "../constant/urls";
 
 export default function useChannel(id) {
   const { data: channel, isLoading } = useQuery({
     queryKey: ["channel", id],
-    queryFn: () => fetchData(FakeUrl.CHANNEL_INFO),
+    queryFn: () => fetchData(Url.CHANNEL_INFO(id)),
     staleTime: 1000 * 60 * 60 * 24 * 3,
     refetchOnWindowFocus: false,
   });
