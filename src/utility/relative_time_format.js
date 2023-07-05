@@ -53,10 +53,6 @@ export default function relativeTimeFormat(publishedAt) {
     return sec(milisecond) < 60;
   }
 
-  function isLessThanHour(milisecond) {
-    return min(milisecond) < 60;
-  }
-
   function isLessThanDay(milisecond) {
     return hour(milisecond) < 24;
   }
