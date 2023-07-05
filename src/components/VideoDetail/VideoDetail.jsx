@@ -25,10 +25,7 @@ export default function VideoDetail() {
     refetchOnWindowFocus: false,
   });
 
-  let channelId = undefined;
-  if (video) {
-    channelId = video.items[0].snippet.channelId;
-  }
+  const channelId = video ? video.items[0].snippet.channelId : undefined;
 
   const [channel] = useChannel(channelId);
 

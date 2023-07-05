@@ -6,11 +6,8 @@ import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import "./index.css";
 import Videos from "./components/Videos/Videos";
 
-const queryClient = new QueryClient();
-
 const App = lazy(() => import("./App"));
 const VideoDetail = lazy(() => import("./components/VideoDetail/VideoDetail"));
-
 const router = createBrowserRouter([
   {
     path: "/",
@@ -29,6 +26,7 @@ const router = createBrowserRouter([
   },
 ]);
 
+const queryClient = new QueryClient();
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
