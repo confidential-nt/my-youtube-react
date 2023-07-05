@@ -9,6 +9,8 @@ import VideoCardPlaceholder from "../VideoCardPlaceholder/VideoCardPlaceholder";
 import "react-placeholder/lib/reactPlaceholder.css";
 import { FakeUrl } from "../../constant/urls";
 
+const NUM_OF_PLACEHOLDER = 15;
+
 export default function Videos() {
   const { keyword } = useParams();
 
@@ -23,12 +25,13 @@ export default function Videos() {
   if (isLoading) {
     return (
       <ul className="h-screen grid grid-cols-1 lg:grid-cols-5 md:grid-cols-3 sm:grid-cols-2 gap-x-2 gap-y-2 bg-yt-black">
-        {Array.from(".".repeat(15)).map((el, index) => (
+        {Array.from({ length: NUM_OF_PLACEHOLDER }, (_, index) => (
           <ReactPlaceholder
             ready={!isLoading}
             customPlaceholder={VideoCardPlaceholder}
             showLoadingAnimation={true}
             key={index}
+            delay={1000}
           ></ReactPlaceholder>
         ))}
       </ul>
