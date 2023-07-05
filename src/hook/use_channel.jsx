@@ -6,7 +6,7 @@ export default function useChannel(id) {
   const { data: channel, isLoading } = useQuery({
     queryKey: ["channel", id],
     queryFn: () => fetchData(FakeUrl.CHANNEL_INFO),
-    staleTime: 1000 * 60 * 5,
+    staleTime: 1000 * 60 * 60 * 24 * 3,
     refetchOnWindowFocus: false,
   });
 

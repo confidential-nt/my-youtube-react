@@ -18,7 +18,7 @@ export default function Videos() {
     queryKey: ["videos", keyword],
     queryFn: () =>
       fetchData(keyword ? FakeUrl.SEARCH_RESULTS : FakeUrl.POPULAR_VIDEOS),
-    staleTime: 1000 * 60,
+    staleTime: 1000 * 60 * 10,
     refetchOnWindowFocus: false,
   });
 

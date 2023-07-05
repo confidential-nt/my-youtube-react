@@ -1,11 +1,11 @@
-import React from "react";
+import React, { memo } from "react";
 import { Link } from "react-router-dom";
 import relativeTimeFormat from "../../utility/relative_time_format";
 import useChannel from "../../hook/use_channel";
 import ChannelMark from "../ChannelMark/ChannelMark";
 import Clock from "../../utility/clock";
 
-export default function VideoCard({ video, videoId, onDetail }) {
+const VideoCard = memo(({ video, videoId, onDetail }) => {
   const {
     snippet: {
       title,
@@ -69,4 +69,6 @@ export default function VideoCard({ video, videoId, onDetail }) {
       </li>
     )
   );
-}
+});
+
+export default VideoCard;

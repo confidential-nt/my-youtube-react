@@ -14,14 +14,14 @@ export default function VideoDetail() {
   const { data: video } = useQuery({
     queryKey: ["video", id],
     queryFn: () => fetchData(FakeUrl.VIDEO_DETAILS),
-    staleTime: 1000 * 60 * 5,
+    staleTime: 1000 * 60 * 60 * 24 * 3,
     refetchOnWindowFocus: false,
   });
 
   const { data: relatedVideos } = useQuery({
     queryKey: ["relatedVideos"],
     queryFn: () => fetchData(FakeUrl.RELATED_VIDEOS),
-    staleTime: 1000 * 60 * 5,
+    staleTime: 1000 * 60 * 60,
     refetchOnWindowFocus: false,
   });
 
