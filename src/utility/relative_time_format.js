@@ -1,26 +1,29 @@
-export default function relativeTimeFormat(publishedAt) {
+export default function relativeTimeFormat(publishedAt, clock) {
   const rtf1 = new Intl.RelativeTimeFormat(navigator.language, {
     style: "short",
   });
-  const diff = Date.now() - new Date(publishedAt);
 
-  if (isLessThanDay(diff)) {
-    return !isLessThanMinute(diff)
-      ? rtf1.format(-hour(diff), "hour")
-      : isLessThanMinute(diff)
-      ? rtf1.format(-sec(diff), "second")
-      : rtf1.format(-min(diff), "minute");
+  if (isLessThanDay(diff(publishedAt))) {
+    return !isLessThanMinute(diff(publishedAt))
+      ? rtf1.format(-hour(diff(publishedAt)), "hour")
+      : isLessThanMinute(diff(publishedAt))
+      ? rtf1.format(-sec(diff(publishedAt)), "second")
+      : rtf1.format(-min(diff(publishedAt)), "minute");
   }
 
-  if (isLessThanMonth(diff)) {
-    return rtf1.format(-day(diff), "day");
+  if (isLessThanMonth(diff(publishedAt))) {
+    return rtf1.format(-day(diff(publishedAt)), "day");
   }
 
-  if (isLessThanYear(diff)) {
-    return rtf1.format(-month(diff), "month");
+  if (isLessThanYear(diff(publishedAt))) {
+    return rtf1.format(-month(diff(publishedAt)), "month");
   }
 
-  return rtf1.format(-year(diff), "year");
+  return rtf1.format(-year(diff(publishedAt)), "year");
+
+  function diff(publishedAt) {
+    return clock.today - new Date(publishedAt);
+  }
 
   function sec(milisecond) {
     return Math.floor((milisecond / 1000) % (60 * 60));
@@ -39,7 +42,7 @@ export default function relativeTimeFormat(publishedAt) {
   }
 
   function month(milisecond) {
-    const date = new Date();
+    const date = clock.today;
     return Math.floor(
       day(milisecond) / getLastDayOfMonth(date.getFullYear(), date.getMonth())
     );
@@ -58,7 +61,7 @@ export default function relativeTimeFormat(publishedAt) {
   }
 
   function isLessThanMonth(milisecond) {
-    const date = new Date();
+    const date = clock.today;
     return (
       day(milisecond) < getLastDayOfMonth(date.getFullYear(), date.getMonth())
     );
