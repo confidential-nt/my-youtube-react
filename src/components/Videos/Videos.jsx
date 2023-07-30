@@ -7,7 +7,7 @@ import getVideoId from "../../utility/get_video_id";
 import ReactPlaceholder from "react-placeholder";
 import VideoCardPlaceholder from "../VideoCardPlaceholder/VideoCardPlaceholder";
 import "react-placeholder/lib/reactPlaceholder.css";
-import { FakeUrl } from "../../constant/urls";
+import { FakeUrl, Url } from "../../constant/urls";
 
 const NUM_OF_PLACEHOLDER = 15;
 
@@ -17,7 +17,7 @@ export default function Videos() {
   const { isLoading, data: videos } = useQuery({
     queryKey: ["videos", keyword],
     queryFn: () =>
-      fetchData(keyword ? FakeUrl.SEARCH_RESULTS : FakeUrl.POPULAR_VIDEOS),
+      fetchData(keyword ? Url.SEARCH_RESULTS(keyword) : Url.POPULAR_VIDEOS),
     staleTime: 1000 * 60 * 10,
     refetchOnWindowFocus: false,
   });
